@@ -1,0 +1,2945 @@
+[
+    {
+        "formatted_address": "32 S 3rd St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.336747,
+                "lng": -121.887717
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3380141799,
+                    "lng": -121.8865365201
+                },
+                "southwest": {
+                    "lat": 37.3353145201,
+                    "lng": -121.8892361799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "1e1d322c848033c75ab26a7f549adef0b4fbb2ee",
+        "name": "Liquid Restaurant and Lounge",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 299,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100157662791796366667\/photos\">Liquid Restaurant &amp; Lounge<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA76K8V5vYeF0A43hMIT75ok3Th6awNsDEk9TdbpECgEMJP5Y3M7efj2HhXE8AqslAIyEtEiakxSJpmEmD5pEBUiVVqJ5ZW18AR9wQP9Qch47Px7xM4A9fLWbOHHyzQuuhEhAPljgqUGwBihZWYZ9Cb0UsGhRttsny-Tx-9jU6ZfHA0a4nxXn5OA",
+                "width": 772
+            }
+        ],
+        "place_id": "ChIJU-txCaLMj4ARjqipm6Veyhw",
+        "plus_code": {
+            "compound_code": "84P6+MW San Jose, California, United States",
+            "global_code": "849W84P6+MW"
+        },
+        "rating": 3.8,
+        "reference": "ChIJU-txCaLMj4ARjqipm6Veyhw",
+        "types": [
+            "bar",
+            "night_club",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 71,
+        "price_level": null
+    },
+    {
+        "formatted_address": "417 S 1st St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3296076,
+                "lng": -121.8859653
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3310045299,
+                    "lng": -121.8845154701
+                },
+                "southwest": {
+                    "lat": 37.3283048701,
+                    "lng": -121.8872151299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "f2e29a0b4e42594a6f7eba923c591fbad7cb3089",
+        "name": "Miami Beach Club",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2048,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116768928945886432673\/photos\">A Google User<\/a>"
+                ],
+                "photo_reference": "CmRaAAAARRevFlfNfpb8jmYgZQ2UkEETi4yJFj1C0c2cjGp6OEULXTGUNZSrJsk8-SW6qzff_W25Q3kObYMwZtXDLaAgozgLIy7T-xGAknfTmQjEIPRX8EsxMs8ZnK9tJK6-tAbNEhDh2Y7SRKhrBKL4s0_7MFW7GhS-19rmhVzqaIHK1kZwAMczz04E0Q",
+                "width": 1152
+            }
+        ],
+        "place_id": "ChIJG-4cwLDMj4AR0S7eEZyTUlk",
+        "plus_code": {
+            "compound_code": "84H7+RJ San Jose, California, United States",
+            "global_code": "849W84H7+RJ"
+        },
+        "rating": 3.1,
+        "reference": "ChIJG-4cwLDMj4AR0S7eEZyTUlk",
+        "types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 121,
+        "price_level": null
+    },
+    {
+        "formatted_address": "97 E Santa Clara St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.337288,
+                "lng": -121.8887537
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3385510799,
+                    "lng": -121.8873378201
+                },
+                "southwest": {
+                    "lat": 37.3358514201,
+                    "lng": -121.8900374799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "133eb3a6943aa2deeef3be8a9a184ac0a84e2bf1",
+        "name": "ENSO Bar & Nightclub",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1500,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104166717833870113207\/photos\">Zeewala<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAcYE1MeZEgKnLYtB47DEnn-kcOFji7IUTecJp9OpIPPNUyLQazylF2KHMq2KpRa9vvdriCKT2kY6IIQNoSnvUUPSex8nPJ0gDwl4WMcAOGlLpXnzSJLDsw9TsnlTWt2yjEhDh5KmAShHfRSRbPFbO1w6eGhQGHdRHV24ZCQGJLOjliUZHUrpgGA",
+                "width": 1000
+            }
+        ],
+        "place_id": "ChIJG5FGHr3Mj4ART-GSHQlVhHU",
+        "plus_code": {
+            "compound_code": "84P6+WF San Jose, California, United States",
+            "global_code": "849W84P6+WF"
+        },
+        "rating": 3.9,
+        "reference": "ChIJG5FGHr3Mj4ART-GSHQlVhHU",
+        "types": [
+            "bar",
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 188,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "1001 S 1st St, San Jose, CA 95110, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3207853,
+                "lng": -121.8787159
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3221991299,
+                    "lng": -121.8772673701
+                },
+                "southwest": {
+                    "lat": 37.3194994701,
+                    "lng": -121.8799670299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "bca3004e64af420b98fb12c5eccf67e08e35ae5a",
+        "name": "Club Caribe",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 960,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103517189473247616833\/photos\">Club Caribe<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAPJNdlUmNFsdaWVPyRlZqT6wx5m71dtPE-_EUfjpO5M39q5Kd2WEqVfpszueBlzT7UgdUHqgyuqW1PZMXJHhWthc6nvCViegkfTaWodJYDOVxT0oP-p9oLfWHfxO0KdBGEhCyftApV0bqGCw1HW0nFIBZGhQotpWtwqw84UcIDhCGHq5rlxMpcA",
+                "width": 720
+            }
+        ],
+        "place_id": "ChIJi14hgjUzjoARRIlcI1sTL6E",
+        "plus_code": {
+            "compound_code": "84CC+8G San Jose, California, United States",
+            "global_code": "849W84CC+8G"
+        },
+        "rating": 4.3,
+        "reference": "ChIJi14hgjUzjoARRIlcI1sTL6E",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 46,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "400 S 1st St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3299974,
+                "lng": -121.8858025
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3313955799,
+                    "lng": -121.8844884701
+                },
+                "southwest": {
+                    "lat": 37.3286959201,
+                    "lng": -121.8871881299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "682ae6f457e7e91bc5cf302153bd2300857a15be",
+        "name": "The Ritz",
+        "opening_hours": null,
+        "photos": [
+            {
+                "height": 641,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109986515813929731909\/photos\">The Ritz<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAA-ZpvidQBrs_Yv-qIFaerBI6v0PofaGYhUq4zHrmqBE1WW_wjFvpaWDl6kAZjbLaNWUo-nGSPIkJGBUBJQ-306-ny2uf-xAR8UumvLlQwiBYVutbFsMjuc7ZLHVskApTEhCpADNH1cFH8EHvZlpCYdcDGhSJ7g68pA96SYInMUcj-VdrHWP7VA",
+                "width": 965
+            }
+        ],
+        "place_id": "ChIJe8wgurDMj4ARE3vsQTk9Rck",
+        "plus_code": {
+            "compound_code": "84H7+XM San Jose, California, United States",
+            "global_code": "849W84H7+XM"
+        },
+        "rating": 4.2,
+        "reference": "ChIJe8wgurDMj4ARE3vsQTk9Rck",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 105,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "8 S 1st St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3361506,
+                "lng": -121.8901501
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3375868799,
+                    "lng": -121.8888649701
+                },
+                "southwest": {
+                    "lat": 37.3348872201,
+                    "lng": -121.8915646299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "84d6843c045bfb44fa16e3baf6024821dfb1cdbb",
+        "name": "Studio 8",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4160,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107040990603720894127\/photos\">Rohit Maheshwari<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAMNyagm2nlrZVnXdXkDudsRtdsUCt4XVg2OFbGKANNBft8ZlMhMyuwAG-XSqDwoA9OJc0Ylu9BYTVhJO9oiwcfkV_zw_LQZUX7yAw8NifhAIusuhWJRb0tnK49w0XwacLEhBk757c0tZwu71qibVJxxN4GhTCb6cztR1y3_-TgZpVJU5ZmMnNhA",
+                "width": 2340
+            }
+        ],
+        "place_id": "ChIJW7jNMqPMj4ARYVBJHFu1LRw",
+        "plus_code": {
+            "compound_code": "84P5+FW San Jose, California, United States",
+            "global_code": "849W84P5+FW"
+        },
+        "rating": 2.4,
+        "reference": "ChIJW7jNMqPMj4ARYVBJHFu1LRw",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 46,
+        "price_level": null
+    },
+    {
+        "formatted_address": "728 N 13th St, San Jose, CA 95112, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3562633,
+                "lng": -121.8882831
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3575419299,
+                    "lng": -121.8870849201
+                },
+                "southwest": {
+                    "lat": 37.3548422701,
+                    "lng": -121.8897845799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "7b75d3d9d9a8a01b6be69621fb3b2c6131c9f3ce",
+        "name": "Maria's Night Club",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1932,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106213189862425125053\/photos\">A Google User<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA1VBy718Kl999gSrku0AOsk3O9olau_G7Po0GPrFXh8om4A86DJrLecYDX3PP0Fovg2q1pmuj6jJZhqlAh7O99Es4hGwjMRn754XfxbyTF4KmRgw7RYdJloBa2gMWfwBgEhAOwoMJI6ufdq44VI7xXzScGhR-Rvm5edSiKR8qkntGDN9b5QCRGA",
+                "width": 2576
+            }
+        ],
+        "place_id": "ChIJMzAP-ojMj4ARkNiU3bFdpyU",
+        "plus_code": {
+            "compound_code": "9446+GM San Jose, California, United States",
+            "global_code": "849W9446+GM"
+        },
+        "rating": 3.2,
+        "reference": "ChIJMzAP-ojMj4ARkNiU3bFdpyU",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 10,
+        "price_level": null
+    },
+    {
+        "formatted_address": "394 S 2nd St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3308969,
+                "lng": -121.8846824
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3321563799,
+                    "lng": -121.8835354201
+                },
+                "southwest": {
+                    "lat": 37.3294567201,
+                    "lng": -121.8862350799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "cfe424d9574bb92ad1fae993715421e49f227786",
+        "name": "Club Milano",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116789151969463043297\/photos\">David Monzalvo<\/a>"
+                ],
+                "photo_reference": "CmRaAAAASovGSmpL7VDiC5UUlx8K-_6u5Y9c6DwrIhhv0sJ2SBrsF5vrn5jc5mZBOb9Xs06kzo2_hJcWN6t_cecPkFJoqZoDre_X8cJYekXADMb4Xjy4hzbgxJBEPXcILw13cUMiEhDS5J69YWF4YTioe4X-N4vAGhSoRzwE9VUyBjPd45xUQTUGvdV3sA",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJHXRWrLDMj4ARgMdalRzKMmw",
+        "plus_code": {
+            "compound_code": "84J8+94 San Jose, California, United States",
+            "global_code": "849W84J8+94"
+        },
+        "rating": 3.6,
+        "reference": "ChIJHXRWrLDMj4ARgMdalRzKMmw",
+        "types": [
+            "night_club",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5,
+        "price_level": null
+    },
+    {
+        "formatted_address": "610 Coleman Ave, San Jose, CA 95110, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3415695,
+                "lng": -121.9079759
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3429032299,
+                    "lng": -121.9066024201
+                },
+                "southwest": {
+                    "lat": 37.3402035701,
+                    "lng": -121.9093020799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "7df08a1d11bd612a21a1ded1f8cab060f66567a6",
+        "name": "Club Rodeo Rio",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 810,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107640237564408242359\/photos\">Club Rodeo<\/a>"
+                ],
+                "photo_reference": "CmRaAAAArElmLBIrkRxVvdfztubRGsmXnt0XlxKywsptOhgXUFPCA18kRSX4XWxpzG7HG4LFocvKMSqzm5VD5Ov-oBR4iJZssu3H6H7aft-ntCA9Ow92ft4BXDR6imvs6TyGcIc-EhB24gOF97P5yP2_bPnq5bVWGhTf2K_GAv4YOyFQiEO48RrMG7hV0w",
+                "width": 1440
+            }
+        ],
+        "place_id": "ChIJ127sjWTLj4AR_UwVXhjwYKA",
+        "plus_code": {
+            "compound_code": "83RR+JR San Jose, California, United States",
+            "global_code": "849W83RR+JR"
+        },
+        "rating": 3.8,
+        "reference": "ChIJ127sjWTLj4AR_UwVXhjwYKA",
+        "types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 127,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "4104 Monterey Rd, San Jose, CA 95111, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2782715,
+                "lng": -121.8352287
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2795918299,
+                    "lng": -121.8339252701
+                },
+                "southwest": {
+                    "lat": 37.2768921701,
+                    "lng": -121.8366249299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "f244f748e043348f76316ca3542f54cda2c1e72c",
+        "name": "El Potrillo Night Club",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114797797359003246551\/photos\">German DeLaCruz<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA2laPWMg6cpYE-DtrLSDN3kD_OYHlXjp0xMwCtJpbhRr5VRxaZWWSgIAAJOFdJOaGhLkOdn3uJtH9JZolIZen_VmOECzsIm1FR6tqXiRP6bEwFboiUVTIJq6iHIv98kxsEhAylC56J6jNduoW8kTigcl5GhRVQB5x-ba_7gBcrt8-Wjuco4IbNA",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJw2-deUAyjoARijsARzFXBzA",
+        "plus_code": {
+            "compound_code": "75H7+8W San Jose, California, United States",
+            "global_code": "849W75H7+8W"
+        },
+        "rating": 2.1,
+        "reference": "ChIJw2-deUAyjoARijsARzFXBzA",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 8,
+        "price_level": null
+    },
+    {
+        "formatted_address": "2121 Monterey Rd, San Jose, CA 95112, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3058659,
+                "lng": -121.8638038
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3071822799,
+                    "lng": -121.8624202201
+                },
+                "southwest": {
+                    "lat": 37.3044826201,
+                    "lng": -121.8651198799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "e230b104f67ad4fd97cfb6826f2a8a9d64b4f730",
+        "name": "Club Chicago",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101480583649601676151\/photos\">A Google User<\/a>"
+                ],
+                "photo_reference": "CmRaAAAALWHqmzA-Hu26ZE27k9SdKE_5PWs30BpWTT3rxS99rEh9STkdzfbdB9Hqv0HQp65Rvj2-mir8Y0AUODO8dn9kEAvJe2TwvM5JTSmrPcp-Qi6shm3T6XSGWK9wE2S0KNCqEhC2U-mNFG57VjDZs0a3HRQMGhTh2lC7h6W1jBqjjD8Ab0uyMTxIYg",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJq5ZEGBkzjoARPLlc9Z2mDpU",
+        "plus_code": {
+            "compound_code": "844P+8F San Jose, California, United States",
+            "global_code": "849W844P+8F"
+        },
+        "rating": 4.2,
+        "reference": "ChIJq5ZEGBkzjoARPLlc9Z2mDpU",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 17,
+        "price_level": null
+    },
+    {
+        "formatted_address": "399 S 1st St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3300103,
+                "lng": -121.8863356
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3314194299,
+                    "lng": -121.8848596701
+                },
+                "southwest": {
+                    "lat": 37.3287197701,
+                    "lng": -121.8875593299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "d8abb22f8b28f416480cbbe7c3ba0aa54cf32577",
+        "name": "Avery Lounge",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100373377358025386370\/photos\">Kathy Parks<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAcR0PKAydXubeslZOgivHIF10OpMewz4IR7CKc82DIXQbJ8JyOscmcEe3h8-J1UhiQccm1BwYQ98uSHJxxMFU2D8ZjlWNjszemcyyWJhrwpman0CUw1MdmSjnUysjOcwXEhDUHh52qPO8nloZmbSU2F-kGhSouresMz48t59NZee-MtjopZiCow",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ-X0Jl7DMj4ARlPRy2vZFE7g",
+        "plus_code": {
+            "compound_code": "84J7+2F San Jose, California, United States",
+            "global_code": "849W84J7+2F"
+        },
+        "rating": 4.7,
+        "reference": "ChIJ-X0Jl7DMj4ARlPRy2vZFE7g",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 15,
+        "price_level": null
+    },
+    {
+        "formatted_address": "152 Post St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3340863,
+                "lng": -121.8922839
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3354728299,
+                    "lng": -121.8909605201
+                },
+                "southwest": {
+                    "lat": 37.3327731701,
+                    "lng": -121.8936601799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/restaurant-71.png",
+        "id": "525a54385d041d4427fe4d7bc105b1b4c1ef1ce3",
+        "name": "Myth Lounge",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 600,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114432522600289267374\/photos\">Michael Flores<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAadOBtbugz13hYvOObVW__uUfoLjLLn7pq9n8MYf9SGm2Ug0N1f5TtGNIzX0PZA0ybp7_kXOv8YEiUKroBRu9vrJRmllpoTftGKCS5QKGaNVpsWSXDNfGMX-THYGwouH0EhDNr0SEVNAF-SrlsVKgfh0BGhQqcGTt3-2J8ozRm7DtV2GNDvFesQ",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJGwgNZKPMj4AR5GuC-OykyKQ",
+        "plus_code": {
+            "compound_code": "84M5+J3 San Jose, California, United States",
+            "global_code": "849W84M5+J3"
+        },
+        "rating": 4.0,
+        "reference": "ChIJGwgNZKPMj4AR5GuC-OykyKQ",
+        "types": [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 167,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "44 S Almaden Ave, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3339425,
+                "lng": -121.8932043
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3352624799,
+                    "lng": -121.8919205701
+                },
+                "southwest": {
+                    "lat": 37.3325628201,
+                    "lng": -121.8946202299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "d5dea3aa298f9d1baaf041ae2d563360bc35f436",
+        "name": "LVL 44",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1152,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107226950582779540972\/photos\">LVL 44<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAdgdrvvNNRtLmIoywi2Hny_P1LqLjCLdTKnKW3F9LHP4jFLGtMbGrgTz60RKc5aDXNnBwsvXxA9IcNd1vjZK6GfhA0ZoXWK_DoHnlVO783lgjG-VBm8T3RyDXREv2BnTXEhD14BMFFawUYE41Y99Sxr6pGhRF_2OkrD9vj-Y7I3v5jv31tXYHgw",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJ1XlleKPMj4ARy2nZKnYk-PY",
+        "plus_code": {
+            "compound_code": "84M4+HP San Jose, California, United States",
+            "global_code": "849W84M4+HP"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ1XlleKPMj4ARy2nZKnYk-PY",
+        "types": [
+            "bar",
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 211,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "52 S 1st St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3352727,
+                "lng": -121.8896991
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3365803299,
+                    "lng": -121.8884423701
+                },
+                "southwest": {
+                    "lat": 37.3338806701,
+                    "lng": -121.8911420299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "e9091096325a653a48c5f52748882a3781c2fb18",
+        "name": "Temple Bar and Lounge",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2209,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101038799726690326104\/photos\">Dan Brown<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAAn4y5fc6i5tZoF2Cq7_j5qtgA9COXcmwgDc83UkOaJNdiPiLm5ch7EoXNOgWIwAU_8hj8DgXOiBvuGFJp81fuEC5TaIWtahD7u45qcdTH6y8L0i4Tj1I41mOfX1ACr7OEhBOr5o4TvXPCmRndgulR-mXGhRx2w8xmsLSkDxIaMsBt-mqiG-9DQ",
+                "width": 3326
+            }
+        ],
+        "place_id": "ChIJN4wVsLzMj4ARtp0uP9Llbc0",
+        "plus_code": {
+            "compound_code": "84P6+44 San Jose, California, United States",
+            "global_code": "849W84P6+44"
+        },
+        "rating": 3.7,
+        "reference": "ChIJN4wVsLzMj4ARtp0uP9Llbc0",
+        "types": [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 227,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "83 S 2nd St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3350896,
+                "lng": -121.888771
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3364874799,
+                    "lng": -121.8874542701
+                },
+                "southwest": {
+                    "lat": 37.3337878201,
+                    "lng": -121.8901539299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "840a658ad2d6704bd9820c8ae41ce7c62117ef06",
+        "name": "Tres Gringos Cabo Cantina",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118075371312337814835\/photos\">Daniel Reiff<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAQNSvrDgF1Ltz7wMS_BcRjfwrw8MRU174tlJvbaNCvz_cDeLwHBj0W9OVn-zf9IBun2yMqVBOx3218wD-JQbe5HYwgVOJFBZhZrNvelJHmcN5jAbJGpg68rXwGO8jsZHEEhD-mOVNYeAkDErhaDF4rF0-GhQh-vPvthIJtJwdbTgVRIm-RzL0UA",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJh_W_nrzMj4ARM3-zKZ6iLs8",
+        "plus_code": {
+            "compound_code": "84P6+2F San Jose, California, United States",
+            "global_code": "849W84P6+2F"
+        },
+        "rating": 3.5,
+        "reference": "ChIJh_W_nrzMj4ARM3-zKZ6iLs8",
+        "types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 45,
+        "price_level": null
+    },
+    {
+        "formatted_address": "81 W Santa Clara St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.335787,
+                "lng": -121.8917461
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3370781799,
+                    "lng": -121.8903515201
+                },
+                "southwest": {
+                    "lat": 37.3343785201,
+                    "lng": -121.8930511799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "39a02a484cc856acd615ea9974ff475f09beb984",
+        "name": "Spearmint Rhino San Jose",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1464,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104240078839340965434\/photos\">A Google User<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAiV6ELZgtVG8JrBDuy3M96-3J8tNjsa0NvEEvKvTT7PHqcICsIkc3zam5cqAO3uPIbIbmSlCRTkgoLqiaTzbmkdAzbfpzCVdhYPrJ2elLeAOPjT58_qg_jAS3AIiQVp7pEhAIL85PGbkcs_Y6nzJqv29MGhQ78tu7WyNIv7GYBGnqkfpPXmjKIg",
+                "width": 1488
+            }
+        ],
+        "place_id": "ChIJkbKKIqPMj4ARBJH3DcyJAWc",
+        "plus_code": {
+            "compound_code": "84P5+88 San Jose, California, United States",
+            "global_code": "849W84P5+88"
+        },
+        "rating": 2.7,
+        "reference": "ChIJkbKKIqPMj4ARBJH3DcyJAWc",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 42,
+        "price_level": null
+    },
+    {
+        "formatted_address": "4134 Monterey Rd, San Jose, CA 95111, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2780455,
+                "lng": -121.8350092
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2793672799,
+                    "lng": -121.8337035201
+                },
+                "southwest": {
+                    "lat": 37.2766676201,
+                    "lng": -121.8364031799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "9cd5c3d3742037550538bf8a390e1357ffcc20b2",
+        "name": "Discoteca Mimmi",
+        "opening_hours": null,
+        "photos": null,
+        "place_id": "ChIJWzURiD8yjoARO2Nsx37S0VM",
+        "plus_code": {
+            "compound_code": "75H7+6X San Jose, California, United States",
+            "global_code": "849W75H7+6X"
+        },
+        "rating": 4.0,
+        "reference": "ChIJWzURiD8yjoARO2Nsx37S0VM",
+        "types": [
+            "night_club",
+            "electronics_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "price_level": null
+    },
+    {
+        "formatted_address": "15 N Santa Cruz Ave, Los Gatos, CA 95030, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2230813,
+                "lng": -121.9837598
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2244192799,
+                    "lng": -121.9823692201
+                },
+                "southwest": {
+                    "lat": 37.2217196201,
+                    "lng": -121.9850688799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "d7d7f56f0f33bab1c0c468b5b467dfaacb49b5dc",
+        "name": "Charley's LG",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 600,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102457524285138999415\/photos\">Charley&#39;s LG<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA9gASy4yTEgEo3DNqIF3354gAPYxgwxDD98V5t-EQATif86vcfqVqrD_-ld93LGlhprZoVou_2gKIONeee8V1RQiohjioHgKjVliBDBtL_xYVqLQw-gr6RrlgGOLpq5XoEhAmLtHAomvIyRNTOzt1opt6GhRFx1F6gXn9fXDE4Z1ROkQZAiQU7w",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJU1Ng8vo1joARV_yho05aG8g",
+        "plus_code": {
+            "compound_code": "62F8+6F Los Gatos, California, United States",
+            "global_code": "849W62F8+6F"
+        },
+        "rating": 4.0,
+        "reference": "ChIJU1Ng8vo1joARV_yho05aG8g",
+        "types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 30,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "328 S Bascom Ave, San Jose, CA 95128, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3227314,
+                "lng": -121.9316215
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3240789299,
+                    "lng": -121.9303859201
+                },
+                "southwest": {
+                    "lat": 37.3213792701,
+                    "lng": -121.9330855799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "e4b87ab14d30300f1cdc4f5cdfe182ebcb39f14e",
+        "name": "The World Famous Pink Poodle",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117867782611025745266\/photos\">Noah Bunag<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAmfa41If_3qJ6de7NeYKfodAJFuBXeCiCUk-5lySihkQ33oNozo_P12bBtf5HATdEmr-fokkOSxNLLefkloyPpOIFbkEBYVlnryF0KwgFo-U5j3WTL6C7bva3oVp2R3mjEhAkAm2EoYjE6RaqpKC_3PE3GhTzvj947p4c-4AzhDeGTVwgqyjL7g",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJgbW1bDzLj4ARK1xjm7frg24",
+        "plus_code": {
+            "compound_code": "83F9+39 San Jose, California, United States",
+            "global_code": "849W83F9+39"
+        },
+        "rating": 3.3,
+        "reference": "ChIJgbW1bDzLj4ARK1xjm7frg24",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 105,
+        "price_level": null
+    },
+    {
+        "formatted_address": "3439 Stevens Creek Blvd, San Jose, CA 95117, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3235241,
+                "lng": -121.9589897
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3247522799,
+                    "lng": -121.9576361701
+                },
+                "southwest": {
+                    "lat": 37.3220526201,
+                    "lng": -121.9603358299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "9086071e0998f12a994287106f8aeb5894b8f07d",
+        "name": "JJ's Lounge",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3168,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116209054196843351404\/photos\">A Google User<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAh_8zx70-3_AVaCtnyiSfemm4CkOwYm_MBJ9oY2-bp8ZrXU1iYN2Z_ZyXyTxXx9i97YjtSqJeQ4ZVvWj3mI2RX8O3Sy2ilgQe2Y5z2zEWxwOZuvn4F2ZLl8h7PusOwUmqEhBMWCRJNYvQ7Gk_xd6eNNTlGhTG8DyZa9mFu40kkTp6YUL2E64N6A",
+                "width": 4752
+            }
+        ],
+        "place_id": "ChIJP_6nVu_Kj4ARGYBk1I3fXUo",
+        "plus_code": {
+            "compound_code": "82FR+CC San Jose, California, United States",
+            "global_code": "849W82FR+CC"
+        },
+        "rating": 4.5,
+        "reference": "ChIJP_6nVu_Kj4ARGYBk1I3fXUo",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 20,
+        "price_level": null
+    },
+    {
+        "formatted_address": "417 S 1st St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3295626,
+                "lng": -121.8859673
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3309657299,
+                    "lng": -121.8845043201
+                },
+                "southwest": {
+                    "lat": 37.3282660701,
+                    "lng": -121.8872039799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/generic_business-71.png",
+        "id": "df5c10f78b0e8d1043bac8cdd3ede60769a62fd2",
+        "name": "BESO CLUB",
+        "opening_hours": null,
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106875541920185341380\/photos\">Kyle Kraynick<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAVxYl_2Ok_C0pKyV-7sTwXuSpoRD9wjgvI6iuXRW_PWHy9kXfG3iQH4VQCP2DEsXjhfYyWGV8uBqP1AsqTfA6MmYVaFcQNSXh7ZVy6MyahNUM2vXrJ92j4-hIoJmCw4-4EhBxzKZ9fxtQJu3J667gEnrqGhSYdHxC9CcSNPgC1ZKsZfXMTmM6Eg",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ9XViwLDMj4ARMOoKIgmVO3g",
+        "plus_code": {
+            "compound_code": "84H7+RJ San Jose, California, United States",
+            "global_code": "849W84H7+RJ"
+        },
+        "rating": 5.0,
+        "reference": "ChIJ9XViwLDMj4ARMOoKIgmVO3g",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "price_level": null
+    },
+    {
+        "formatted_address": "389 S 1st St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.330029,
+                "lng": -121.886447
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3314550799,
+                    "lng": -121.8849349201
+                },
+                "southwest": {
+                    "lat": 37.3287554201,
+                    "lng": -121.8876345799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "7bd28cd1fad0168322d422909bc81fcbf79c6565",
+        "name": "bhangra night",
+        "opening_hours": null,
+        "photos": null,
+        "place_id": "ChIJ__-rkLDMj4ARgF9AUe7Oorg",
+        "plus_code": {
+            "compound_code": "84J7+2C San Jose, California, United States",
+            "global_code": "849W84J7+2C"
+        },
+        "rating": 0.0,
+        "reference": "ChIJ__-rkLDMj4ARgF9AUe7Oorg",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0,
+        "price_level": null
+    },
+    {
+        "formatted_address": "393 Lincoln Ave, San Jose, CA 95126, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3212573,
+                "lng": -121.9086847
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3226110299,
+                    "lng": -121.9072474201
+                },
+                "southwest": {
+                    "lat": 37.3199113701,
+                    "lng": -121.9099470799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "112f5e7426146d5ca393df29a09465af2b1f039d",
+        "name": "AJ's Bar",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102408933881120020986\/photos\">Sandra Rosas Olden<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA4BUwP3h5A_mR2Tkd5W6IcmBGHSrJ3wZrzkN2c-NKBH_DlUqnk8kQ5YosBrpAe_hkerh9t6nfTp9slpaIqHm1aD-QiFTrieuckYZA4sasNRJm2oZfd1pNq8bQhChJYMIkEhB0_XUMbvZjVGLUL6HCIyDwGhS5AcDAai4QyZOhq1ZQ1-pNbcYnWg",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJzRafI1HLj4ARMugpM6SRC30",
+        "plus_code": {
+            "compound_code": "83CR+GG San Jose, California, United States",
+            "global_code": "849W83CR+GG"
+        },
+        "rating": 3.2,
+        "reference": "ChIJzRafI1HLj4ARMugpM6SRC30",
+        "types": [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 11,
+        "price_level": null
+    },
+    {
+        "formatted_address": "1501 Monterey Rd, San Jose, CA 95110, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3138124,
+                "lng": -121.8722948
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3153272299,
+                    "lng": -121.8706876201
+                },
+                "southwest": {
+                    "lat": 37.3126275701,
+                    "lng": -121.8733872799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "d675baac3e88175acb3436d893dba1d5a9ae8d30",
+        "name": "My new number its Antoinette",
+        "opening_hours": null,
+        "photos": null,
+        "place_id": "ChIJ7WOxMDozjoARNcPweP1IsAw",
+        "plus_code": {
+            "compound_code": "847H+G3 San Jose, California, United States",
+            "global_code": "849W847H+G3"
+        },
+        "rating": 0.0,
+        "reference": "ChIJ7WOxMDozjoARNcPweP1IsAw",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0,
+        "price_level": null
+    },
+    {
+        "formatted_address": "30 S 1st St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3356843,
+                "lng": -121.8897244
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3369417299,
+                    "lng": -121.8885702701
+                },
+                "southwest": {
+                    "lat": 37.3342420701,
+                    "lng": -121.8912699299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "c2cf46193cb5f587db50ba8dc8e581db8fcb87a4",
+        "name": "Elev8 Nightclub",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1152,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105429581726386210125\/photos\">A Google User<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAHF5jzIYOvUjEefaEAgjPOTqOxagystk6Oe5NDNhl7clvdYa5cJGb9LogO9Ox70B2X1Hyo9OPVdhgPw78Ktrs992d_CcKqPMSkRDQQ6Ub4Sv470WLAvthHF9gTxTQfGdHEhDTAQG7rMbA8MjT02HErNiUGhRVtE88u4vbQ6frjhD77ppE_gND-g",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJd5MueXTNj4AR7_Bc8V-sy0A",
+        "plus_code": {
+            "compound_code": "84P6+74 San Jose, California, United States",
+            "global_code": "849W84P6+74"
+        },
+        "rating": 5.0,
+        "reference": "ChIJd5MueXTNj4AR7_Bc8V-sy0A",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "price_level": null
+    },
+    {
+        "formatted_address": "2021 Alum Rock Ave, San Jose, CA 95116, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3562736,
+                "lng": -121.8490129
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3575367299,
+                    "lng": -121.8475965701
+                },
+                "southwest": {
+                    "lat": 37.3548370701,
+                    "lng": -121.8502962299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "325c0c63a9cc9324b9cc797234439586a5a1e639",
+        "name": "Lily's",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1960,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117294051121994287975\/photos\">Mart\u00edn Enrique<\/a>"
+                ],
+                "photo_reference": "CmRZAAAAduNC9Fljc-0RJ4E0VarrleOFD1wNmfvhSlVB8O3aVRJcl_2zXt_VcK_Yw_aX0qc9hYa19K68OmoJk2sf_QRBI3e_YePMl4kRKz0gSx71wXvUaKkYXP7RiDMHu_OR_omeEhBaArK34uOgWh2fMjDA0lDGGhTOizS9IIi1DKiYYeECpdInAViiWg",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ49tTYqDNj4AR81InoG3k3KI",
+        "plus_code": {
+            "compound_code": "9542+G9 San Jose, California, United States",
+            "global_code": "849W9542+G9"
+        },
+        "rating": 2.0,
+        "reference": "ChIJ49tTYqDNj4AR81InoG3k3KI",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "price_level": null
+    },
+    {
+        "formatted_address": "233 W Santa Clara St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.334413,
+                "lng": -121.895109
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3356240799,
+                    "lng": -121.8936539701
+                },
+                "southwest": {
+                    "lat": 37.3329244201,
+                    "lng": -121.8963536299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "b7fc52cfda244fc22acc41e36696077f332dce09",
+        "name": "Hedley Club",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111574532729357790876\/photos\">Andrew Chang<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAkrpipqcnlaJ3r1SN3YWxaQoB9Pj7uKo5IellaCFqOhMxBQBa_c41nuD40KE2gUHuyg0Nl3TTyQn6kX12reuvhs8F2sZnJKby3LmsCuv3ZatEELc03D9-FE2tQDgpoyB0EhDljCvfvK2XFsJu8uAytojRGhRjPGYSBo4DmQxQQCamuXjJr95h5Q",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJVSkbwKPMj4ARMEQP6zsiPmk",
+        "plus_code": {
+            "compound_code": "84M3+QX San Jose, California, United States",
+            "global_code": "849W84M3+QX"
+        },
+        "rating": 4.4,
+        "reference": "ChIJVSkbwKPMj4ARMEQP6zsiPmk",
+        "types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 76,
+        "price_level": 3.0
+    },
+    {
+        "formatted_address": "901 Commercial St, San Jose, CA 95112, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3667024,
+                "lng": -121.888867
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3679947299,
+                    "lng": -121.8874552701
+                },
+                "southwest": {
+                    "lat": 37.3652950701,
+                    "lng": -121.8901549299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/generic_business-71.png",
+        "id": "a0ba2bbd3a1c6b4aac388751bac25bc4eef9af96",
+        "name": "Club DJ",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108872926311965229206\/photos\">Club DJ<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAG3tAFYJZtnYLhlY73RaxxgY1uQg_46k5yhbQQrTFwoBMIaCD7qp-2FT_j7uGiMlYy4GI0WTG4w5HPKPDJKC9u_i1EU2YRYoVeO3i3wQ-0AfpEz7aGmjzQe7ZBkYlVIrBEhBWgByKVgWSj_t-Eq4L9mlhGhT843cAEhvmabBxT430KJ5_pVOgBw",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJSyhFPmXMj4ARwE5XVfZ0bD4",
+        "plus_code": {
+            "compound_code": "9486+MF San Jose, California, United States",
+            "global_code": "849W9486+MF"
+        },
+        "rating": 4.4,
+        "reference": "ChIJSyhFPmXMj4ARwE5XVfZ0bD4",
+        "types": [
+            "night_club",
+            "electronics_store",
+            "home_goods_store",
+            "bar",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 34,
+        "price_level": null
+    },
+    {
+        "formatted_address": "349 S 1st St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3305863,
+                "lng": -121.8867368
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3319907799,
+                    "lng": -121.8852740201
+                },
+                "southwest": {
+                    "lat": 37.3292911201,
+                    "lng": -121.8879736799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "12d779871647ba9f42aec5d31226900f034906a8",
+        "name": "The Continental Bar Lounge & Patio",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108539248136212573437\/photos\">Jon<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAUxifQWzXw5YYbWQPP83CsxcrjxNUJDwMIRMiZD47tpJR7BgH8DpSFbMfq8CEjuNq-GYjwl0b8LkU0R4LptdLpxmi83iWtlur1EGKynbMvlg3QfT6SN8u89ucVoroZklhEhAEMc6-RREzEyxZDh3XRmKLGhQeuIhWA5K14XDLNDTxhuCU6_5fgw",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJaXwMdrrMj4ARDIHcfCFfFxs",
+        "plus_code": {
+            "compound_code": "84J7+68 San Jose, California, United States",
+            "global_code": "849W84J7+68"
+        },
+        "rating": 4.4,
+        "reference": "ChIJaXwMdrrMj4ARDIHcfCFfFxs",
+        "types": [
+            "bar",
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 575,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "162 Jackson St, San Jose, CA 95112, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.348509,
+                "lng": -121.894981
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3499260799,
+                    "lng": -121.8936809201
+                },
+                "southwest": {
+                    "lat": 37.3472264201,
+                    "lng": -121.8963805799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "efd8c94b317e7084d8c22b358bc24968ccb1513e",
+        "name": "7 Bamboo Lounge",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 392,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112485188592340108373\/photos\">Seven Bamboo<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA0YPq8jB5rldxHVWnkHnXmkMc2SO3-GLNg5yIgfPBQOgc-N5n45eR5oo9QO4T76rxZDiH8y6CV0i7XEGMLiR5XgeMeP0h9_cvQqNCrD8arFPY5MXM_WiiVPu0rzhF9NDlEhBQmfsa-l1lovOfmyd74QSdGhSKPnng1mYcBZf8xJMHlkw6MRtXWw",
+                "width": 696
+            }
+        ],
+        "place_id": "ChIJhwAFvoTMj4ARNkaBQAHUmHk",
+        "plus_code": {
+            "compound_code": "84X4+C2 San Jose, California, United States",
+            "global_code": "849W84X4+C2"
+        },
+        "rating": 4.3,
+        "reference": "ChIJhwAFvoTMj4ARNkaBQAHUmHk",
+        "types": [
+            "night_club",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 340,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "90 S 2nd St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.335237,
+                "lng": -121.888146
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3365430299,
+                    "lng": -121.8868976201
+                },
+                "southwest": {
+                    "lat": 37.3338433701,
+                    "lng": -121.8895972799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/restaurant-71.png",
+        "id": "b861fea3ad21647c64c31917405d5b8736a8ac2b",
+        "name": "Loft Bar & Bistro",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 315,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116558117600900536311\/photos\">A Google User<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA-RRZeU7Y5NfV8YSeWyUbKvBUxfS7lG53qNOYQPZVWym-De1i-EuOB7cCHpQzGdXMu_ERBdA7nTihMyb6NvL3n9MpT-H4YqruQ2-8GDXqfkgMTJrSc92ChVzNeIM6KgPLEhBV8ShGPQ3QgGZfAV5ak0zhGhTZsQAhGsGWSl07W19qBSVL_eBSlg",
+                "width": 851
+            }
+        ],
+        "place_id": "ChIJmXNOg7zMj4ARl3VZADKRkZ8",
+        "plus_code": {
+            "compound_code": "84P6+3P San Jose, California, United States",
+            "global_code": "849W84P6+3P"
+        },
+        "rating": 4.1,
+        "reference": "ChIJmXNOg7zMj4ARl3VZADKRkZ8",
+        "types": [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 523,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "72 N Almaden Ave, San Jose, CA 95110, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3360545,
+                "lng": -121.8946697
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3373525799,
+                    "lng": -121.8934090201
+                },
+                "southwest": {
+                    "lat": 37.3346529201,
+                    "lng": -121.8961086799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "c70304cefde8b8ff897c8d9744956618f7dc4842",
+        "name": "Sabor Tapas Bar and Lounge",
+        "opening_hours": null,
+        "photos": null,
+        "place_id": "ChIJcQnlN6LMj4AR8EvAWkDcslA",
+        "plus_code": {
+            "compound_code": "84P4+C4 San Jose, California, United States",
+            "global_code": "849W84P4+C4"
+        },
+        "rating": 0.0,
+        "reference": "ChIJcQnlN6LMj4AR8EvAWkDcslA",
+        "types": [
+            "bar",
+            "night_club",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "357 E Taylor St, San Jose, CA 95112, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3527824,
+                "lng": -121.892821
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3540671799,
+                    "lng": -121.8914220201
+                },
+                "southwest": {
+                    "lat": 37.3513675201,
+                    "lng": -121.8941216799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/generic_business-71.png",
+        "id": "b69c4a981c1f72dbbce191647c99ca015546628c",
+        "name": "Taylor Street Night Market",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107354560650636387610\/photos\">A Google User<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAHcaGidS_EXvGk77st94Q94d5_fCSdfkLbZq4GJxnVXpGZkpvJf6ZtoCua01PUppbHPuxDtBFK4dOqFmZPkpdCrV-6QmuaRRRD0Z6R9SQ0cMq33ZROOw8i39h-dA4V2X2EhDD3oePD9MPWmqCttl79hPHGhQgAvkFHqu6tmaCMJJeSzkaA2d3tg",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJLzHTcIbMj4ARb9enI2SC6ME",
+        "plus_code": {
+            "compound_code": "9434+4V San Jose, California, United States",
+            "global_code": "849W9434+4V"
+        },
+        "rating": 4.5,
+        "reference": "ChIJLzHTcIbMj4ARb9enI2SC6ME",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 100,
+        "price_level": null
+    },
+    {
+        "formatted_address": "30 S 1st St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3357,
+                "lng": -121.8897
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3369511299,
+                    "lng": -121.8885592201
+                },
+                "southwest": {
+                    "lat": 37.3342514701,
+                    "lng": -121.8912588799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "99c3f77d2cc906522c811851f04f94d9c9bd6eaa",
+        "name": "Standard Bar, Lounge & Event Space",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106440966020539108912\/photos\">A Google User<\/a>"
+                ],
+                "photo_reference": "CmRaAAAADdACIRwV3NsEhdvUsVPi-cChyUU0VmRKDq9wrMLMy5ZHygQUQ3Jui7k3MpDoofKLU19pkdflZVKa6FP4GoO5jNWJjWL_Oqw9SKsDRKyy9T4FE5PH9kwt6hL7JQfI2VKHEhBiBxIVAA2r1wfK9q6HgaX6GhQhKLr0X2IO3mJfbaXt1ajQGCgWYg",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJTbGgnV3Nj4ARC7OvDoFmPGM",
+        "plus_code": {
+            "compound_code": "84P6+74 San Jose, California, United States",
+            "global_code": "849W84P6+74"
+        },
+        "rating": 0.0,
+        "reference": "ChIJTbGgnV3Nj4ARC7OvDoFmPGM",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0,
+        "price_level": null
+    },
+    {
+        "formatted_address": "65 Post St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3349561,
+                "lng": -121.8908991
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3362574799,
+                    "lng": -121.8895089201
+                },
+                "southwest": {
+                    "lat": 37.3335578201,
+                    "lng": -121.8922085799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "fdb12ec70d318a5623df5e16cc414553f2edb485",
+        "name": "Splash Bar Inc",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115102307186632409206\/photos\">Torben Mauch<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAVgDg-EHd6_i7jiMkYwoPyc13HF0X984pB01LSWW7S2SSgFVr0p_lc7ctJIaKqjxOWoeIOMOlT24Rj6eN4rX-GYn7EdsFunMSRLgOJa2RyDZQBmZ9G6vPG7ocyYJGeIrQEhANo6YGHcDMPljVfds9SzZEGhTySIXWoi2LCAI4poiaiuD0sQrgdA",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJGcheTqPMj4AReki4cvP4i00",
+        "plus_code": {
+            "compound_code": "84M5+XJ San Jose, California, United States",
+            "global_code": "849W84M5+XJ"
+        },
+        "rating": 4.3,
+        "reference": "ChIJGcheTqPMj4AReki4cvP4i00",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 483,
+        "price_level": null
+    },
+    {
+        "formatted_address": "43 W San Salvador St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.32996,
+                "lng": -121.8864509
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3312517799,
+                    "lng": -121.8850725701
+                },
+                "southwest": {
+                    "lat": 37.3285521201,
+                    "lng": -121.8877722299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "3e9ff23f6c178a0105c37d3819c76d7f5b9d5f42",
+        "name": "Haberdasher",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100214958058519186901\/photos\">Matthew Larsen<\/a>"
+                ],
+                "photo_reference": "CmRaAAAApe2TqdvNdp88K_BYkeTQS3rc3Rg6lfaD0wBnx1hIlb8t7NsOjbN_w3Fm5X85YOO_y8Y4lF-N-BKmy5nvnMpLuqRCvRoQcjciH_Db0gYCJPfdNGIOxFZAsKyToZE0zxJ5EhAm39HEJDalz59f-mnOP4qyGhQpccbvJuqRs_0AJ1CUohJC1K5WYg",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJkV6TlrDMj4ARIPxsqSMrdr4",
+        "plus_code": {
+            "compound_code": "84H7+XC San Jose, California, United States",
+            "global_code": "849W84H7+XC"
+        },
+        "rating": 4.6,
+        "reference": "ChIJkV6TlrDMj4ARIPxsqSMrdr4",
+        "types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1002,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "98 S 2nd St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.335143,
+                "lng": -121.888025
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3364364799,
+                    "lng": -121.8867918201
+                },
+                "southwest": {
+                    "lat": 37.3337368201,
+                    "lng": -121.8894914799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/restaurant-71.png",
+        "id": "5720c57db7b3c0c93562fcec00d2312fae74acb2",
+        "name": "M Asian Fusion Restaurant",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3061,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115682262382707648628\/photos\">M Asian Fusion Restaurant<\/a>"
+                ],
+                "photo_reference": "CmRaAAAABHLWFWIFGhAkB9QYOYJNrvNjk8nehfV6wJrVgIYwAMuqmjCyPyiryMOYd7BVQ8HDIREP5NYq_UPIN-fYCF3Qla44jBx-Fc52T7Hoh8Fv1jDzsh_4ABMWbEQpAmpjdUsUEhDOiZrUKpbeeBXtC544F1QMGhTaqBG7y0wzmW_xbeDeNBITCf2d3A",
+                "width": 4080
+            }
+        ],
+        "place_id": "ChIJx9NLgrzMj4ARDnse5hM6kqk",
+        "plus_code": {
+            "compound_code": "84P6+3Q San Jose, California, United States",
+            "global_code": "849W84P6+3Q"
+        },
+        "rating": 3.5,
+        "reference": "ChIJx9NLgrzMj4ARDnse5hM6kqk",
+        "types": [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 412,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "1015 Spencer Ave, San Jose, CA 95125, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3142816,
+                "lng": -121.8925255
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3156253799,
+                    "lng": -121.8909766701
+                },
+                "southwest": {
+                    "lat": 37.3129257201,
+                    "lng": -121.8936763299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "eb9bdaa8feabc138640e36875615dfc30a1e6faa",
+        "name": "Spencer Manor",
+        "opening_hours": null,
+        "photos": null,
+        "place_id": "ChIJIf_xOmkzjoARjhCJO7G_WNc",
+        "plus_code": {
+            "compound_code": "8474+PX San Jose, California, United States",
+            "global_code": "849W8474+PX"
+        },
+        "rating": 0.0,
+        "reference": "ChIJIf_xOmkzjoARjhCJO7G_WNc",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0,
+        "price_level": null
+    },
+    {
+        "formatted_address": "5678 Allen Ave #1, San Jose, CA 95123, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2482867,
+                "lng": -121.8548316
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2496690799,
+                    "lng": -121.8536245201
+                },
+                "southwest": {
+                    "lat": 37.2469694201,
+                    "lng": -121.8563241799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "3947e7c81f4057737e842594c9b89a4f233d5b6b",
+        "name": "Partyanimalpresents",
+        "opening_hours": null,
+        "photos": null,
+        "place_id": "ChIJDaqXS9IxjoARprfEBCZIVZE",
+        "plus_code": {
+            "compound_code": "64XW+83 San Jose, California, United States",
+            "global_code": "849W64XW+83"
+        },
+        "rating": 0.0,
+        "reference": "ChIJDaqXS9IxjoARprfEBCZIVZE",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0,
+        "price_level": null
+    },
+    {
+        "formatted_address": "102 S Santa Cruz Ave # B, Los Gatos, CA 95030, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2213894,
+                "lng": -121.9847803
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2227174799,
+                    "lng": -121.9833596201
+                },
+                "southwest": {
+                    "lat": 37.2200178201,
+                    "lng": -121.9860592799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "5700ad848c01424777c97634f79e5109b83af24e",
+        "name": "Number 1 Broadway",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 480,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110627143522250640934\/photos\">A Google User<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAPibrnGO8UbKHJiVbxxinHYfEwqBdhPN2kGxc9ZOw9EWqdTNsJ7C5dTOtZZZGTckPiruPuXDN2XZ3oW60yTDdBfENV09SidA1FA6d1ttNH4XdBkUiNn9XBo1T-h3iZ0P_EhCsrh-qdumpvIORBLu2xxXxGhTpNawHPVGTvjkheByOjcFPKzgUTg",
+                "width": 480
+            }
+        ],
+        "place_id": "ChIJPf8Aq_s1joARV9gh3g7uLEY",
+        "plus_code": {
+            "compound_code": "62C8+H3 Los Gatos, California, United States",
+            "global_code": "849W62C8+H3"
+        },
+        "rating": 4.3,
+        "reference": "ChIJPf8Aq_s1joARV9gh3g7uLEY",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 58,
+        "price_level": null
+    },
+    {
+        "formatted_address": "646 Coyote Rd, San Jose, CA 95111, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2790001,
+                "lng": -121.8140227
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2804517299,
+                    "lng": -121.8126651201
+                },
+                "southwest": {
+                    "lat": 37.2777520701,
+                    "lng": -121.8153647799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "97a50e8a64fe8d2f10df93158c357cbd0821209b",
+        "name": "646 studio",
+        "opening_hours": null,
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108280303577619096717\/photos\">kha phan<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA0rq9RoNkwOjTi0hIRU2WHhrRYXlKTGFgNUpsjnUgM5CtIGlVsZ8onS6AsQDpb_r84oy9mjOUO9u8jLVJdcSNRUhEBfmelXh-H9R5NVFipX1xjF2HX5P-Bo6METKduACcEhBYc0wXWPLGjtr9n-eZGyP0GhRwgu6WxzEyS9hIyXn4V7rWS1aQQA",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ76FySMQzjoARJM6IYx7EEkM",
+        "plus_code": {
+            "compound_code": "75HP+J9 San Jose, California, United States",
+            "global_code": "849W75HP+J9"
+        },
+        "rating": 5.0,
+        "reference": "ChIJ76FySMQzjoARJM6IYx7EEkM",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5,
+        "price_level": null
+    },
+    {
+        "formatted_address": "1150 Murphy Ave d, San Jose, CA 95131, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3824709,
+                "lng": -121.8950818
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3836202799,
+                    "lng": -121.8936661701
+                },
+                "southwest": {
+                    "lat": 37.3809206201,
+                    "lng": -121.8963658299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/restaurant-71.png",
+        "id": "05d1518ef8b2b0ac58ca60c98168f2e8a6144233",
+        "name": "elevenFifty",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1960,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114503919380903200117\/photos\">LAM SON NGO<\/a>"
+                ],
+                "photo_reference": "CmRZAAAAiaVjCoW14-eQuEuJ5VnvIIIxmlLrv2SplWi2rmesEuKm6gcVsCtkhpSlA2-zDShYQhTIUJdRbvgqmU_ls-x1XP-rA0fMv5q54icLIS8uPp5x1OUbLPM-PeeSo7_28anSEhA0C1G9_fEMAiwbFFpx0DfMGhRIgyV28iGc1uigejdsSFcQzawwzQ",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJbQcyxw7Mj4ARElSETpsv3nA",
+        "plus_code": {
+            "compound_code": "94J3+XX San Jose, California, United States",
+            "global_code": "849W94J3+XX"
+        },
+        "rating": 4.2,
+        "reference": "ChIJbQcyxw7Mj4ARElSETpsv3nA",
+        "types": [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 255,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "73 E San Fernando St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3352982,
+                "lng": -121.8877161
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3365499799,
+                    "lng": -121.8862930201
+                },
+                "southwest": {
+                    "lat": 37.3338503201,
+                    "lng": -121.8889926799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "bfb7fc4959c9ac8febc72b1ecb0da136af11eb5c",
+        "name": "Social Lady",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/101393109232095237137\/photos\">Jim Popadak<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAclbRCM7uziASMpQJFepKnZiq_Ldw9B7tU2dA7WPyH7Nx8t7T2GFBGh7HKjyHjI2RIXQTLl2Jcp5V7YyLucrrdQM0L8neUrmvr3BmicxTOd-46t6G7LFwKb4E2o6CwwZ-EhDhKobOTKFQWRqI20JNnSMfGhSr6Klsdk9z_kSSSZijdBY5ll43rQ",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJXcyJWRrNj4AR9IQtsMzj1XU",
+        "plus_code": {
+            "compound_code": "84P6+4W San Jose, California, United States",
+            "global_code": "849W84P6+4W"
+        },
+        "rating": 4.2,
+        "reference": "ChIJXcyJWRrNj4AR9IQtsMzj1XU",
+        "types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 61,
+        "price_level": null
+    },
+    {
+        "formatted_address": "1072 Lincoln Ave, San Jose, CA 95125, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3101808,
+                "lng": -121.901811
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3114426299,
+                    "lng": -121.9006547201
+                },
+                "southwest": {
+                    "lat": 37.3087429701,
+                    "lng": -121.9033543799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "9ee98d0a9dd8c29fb990f43dae6f48e8a0f56832",
+        "name": "Goosetown Lounge",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102853047839294494934\/photos\">Victor S<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA0uvRBFGqvncXGwaeCea6us0dhju5NCQ7SuRSuXzH27XVSfCpo-ZwLL5CoU1zekTtgFZk-CPFAMZ3Z3VA5O9c0ZVi2o04P8A644BTzcG08WHCZApfuSLwn_WvOJ3uDN8BEhCRUVfeiEP-o6gUrySfmT70GhRzy0_ZlQzF1oplEkV4Zyhvuo44CA",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJ01CZIFYzjoARbXSe9uUj9FI",
+        "plus_code": {
+            "compound_code": "836X+37 San Jose, California, United States",
+            "global_code": "849W836X+37"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ01CZIFYzjoARbXSe9uUj9FI",
+        "types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 162,
+        "price_level": 1.0
+    },
+    {
+        "formatted_address": "374 S 1st St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3305863,
+                "lng": -121.8861344
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3318790299,
+                    "lng": -121.8849418701
+                },
+                "southwest": {
+                    "lat": 37.3291793701,
+                    "lng": -121.8876415299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/restaurant-71.png",
+        "id": "1090534bc268b6da11cc038481db31731ff41fbf",
+        "name": "Cafe Stritch",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2424,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114300914220727227358\/photos\">Connie Kwan<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAQz4s7_qP9WBLdr98hUto_Le47gjSOn-Ip5vDjigTp7HbwPUvOoXpUXhz7eM7yiaMmRumvQQQIjw6jM_y3U2H3gC9FZD1y1lR529Ab80G2GE0NOPI4MIZEfXSKYXdtoV-EhCSlO6uScFHN_PFivNvkOYWGhSD5EZP2LVO-Gx-oXuWfG8kmA8rYg",
+                "width": 3232
+            }
+        ],
+        "place_id": "ChIJJXJBn7DMj4ARTqgkVU36GnU",
+        "plus_code": {
+            "compound_code": "84J7+6G San Jose, California, United States",
+            "global_code": "849W84J7+6G"
+        },
+        "rating": 4.6,
+        "reference": "ChIJJXJBn7DMj4ARTqgkVU36GnU",
+        "types": [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 832,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "167 E Taylor St, San Jose, CA 95112, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3509711,
+                "lng": -121.8967427
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3522318299,
+                    "lng": -121.8953259201
+                },
+                "southwest": {
+                    "lat": 37.3495321701,
+                    "lng": -121.8980255799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "1f7009bd4951482cdbbadbd806831ee5501708b9",
+        "name": "Jack's Bar & Lounge",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 540,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112712076377755514669\/photos\">Jack&#39;s Bar &amp; Lounge<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAo2DoNSF_Mah44tTdPpqtxupRrRu_56vaevN7lDwugMPk1HznOQ5LUIEsIOM13qqOXwJzcaLIjNHYiHAfWwjgW5O94bcdWK5zRD6BaiMbUa0vpbulfsdGVIaa4a7t0mvUEhBOpeX_d7NBELcp4TpnsekXGhR3-ibcggDV_88uml3n7gZd5nfyvQ",
+                "width": 960
+            }
+        ],
+        "place_id": "ChIJhW1M8IPMj4ARxt4SjJAS3pA",
+        "plus_code": {
+            "compound_code": "9423+98 San Jose, California, United States",
+            "global_code": "849W9423+98"
+        },
+        "rating": 4.4,
+        "reference": "ChIJhW1M8IPMj4ARxt4SjJAS3pA",
+        "types": [
+            "bar",
+            "night_club",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 327,
+        "price_level": 1.0
+    },
+    {
+        "formatted_address": "3439 Stevens Creek Blvd, San Jose, CA 95117, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.323513,
+                "lng": -121.9589072
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3247474799,
+                    "lng": -121.9575538701
+                },
+                "southwest": {
+                    "lat": 37.3220478201,
+                    "lng": -121.9602535299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/generic_business-71.png",
+        "id": "ed35b5ec45422acb81bf057b5d7a448eb1d3f66a",
+        "name": "JJ's Blues",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104409702597682673587\/photos\">Sina Ferdosi<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAQ9nSjN1f2NjnCoUOzkoFaClo1uAZSp09qWXBjqgj5aqfQQazwK9cce6ZddVNVcufqaqGJic3bpM1DGV9C5cRwoWUxGRTUN7QdpF5HT8CnAGn5RmQ3vgLQroMuLMrlVDgEhB-3kn3IZ_833c5_EmGkocDGhQsupNrnugzcyIoQXtwqkEzGbgjqw",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJ681oVO_Kj4AReI9SvD82a4g",
+        "plus_code": {
+            "compound_code": "82FR+CC Santa Clara, California, United States",
+            "global_code": "849W82FR+CC"
+        },
+        "rating": 3.4,
+        "reference": "ChIJ681oVO_Kj4AReI9SvD82a4g",
+        "types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 20,
+        "price_level": null
+    },
+    {
+        "formatted_address": "355 Santana Row #1060, San Jose, CA 95128, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3209928,
+                "lng": -121.9484999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3223476299,
+                    "lng": -121.9472627201
+                },
+                "southwest": {
+                    "lat": 37.3196479701,
+                    "lng": -121.9499623799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "f5c8009fdef1aa4b1400f59ed86731e72f8ec4ff",
+        "name": "Rosie McCann's Irish Pub & Restaurant",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 512,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113577466890930103188\/photos\">Rosie McCann&#39;s Irish Pub &amp; Restaurant<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAADxVs8FFzGXCkQcKiDBGAavhmz92RaCaL-kCXv-q4lS1htw4gxBWlkI8WWusuoeJKoS7qXCIo29vX98JyvzR71kcPCxTMs6bI5EDDvfDVdi2EIMjk_cbFZCSEzubRPmjEhD3dH-cvxcXArWbfV6io2LWGhS4SoTfzy96OGnD_tnC0QASYMf_Hg",
+                "width": 2000
+            }
+        ],
+        "place_id": "ChIJk9Do7t_Kj4ARwzZHJcko3Fs",
+        "plus_code": {
+            "compound_code": "83C2+9J San Jose, California, United States",
+            "global_code": "849W83C2+9J"
+        },
+        "rating": 4.1,
+        "reference": "ChIJk9Do7t_Kj4ARwzZHJcko3Fs",
+        "types": [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 566,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "100 Almaden Ave #160, San Jose, CA 95110, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3362671,
+                "lng": -121.8948407
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3375605799,
+                    "lng": -121.8935879201
+                },
+                "southwest": {
+                    "lat": 37.3348609201,
+                    "lng": -121.8962875799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "8b7baa7b3905d6009e0b81d76a0eff49e48fcdfd",
+        "name": "Blush Raw Bar Lounge",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105402083250732761868\/photos\">Joseph Le<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAGMGKzbDLrQ51HyCpQZyIePElU2_cutVqARQrvXqgtC0xV0kt1Qu2RA8btVE6SeuyjpgIbHFrllfoOYogYRMJOqxmbZUJifnzUxdDTLnhJsxSgU1RXu7fCdV_jsc2UVaREhAUv5QBVUFqLhFlRNQZVCeoGhTvK-tMzNYpWqyjYde5fjGUM-RUQQ",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJJTWiOaLMj4ARvTw9uOOXS9k",
+        "plus_code": {
+            "compound_code": "84P4+G3 San Jose, California, United States",
+            "global_code": "849W84P4+G3"
+        },
+        "rating": 4.2,
+        "reference": "ChIJJTWiOaLMj4ARvTw9uOOXS9k",
+        "types": [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 172,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "6104 Monterey Rd, San Jose, CA 95138, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2373956,
+                "lng": -121.771351
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2386179299,
+                    "lng": -121.7700526701
+                },
+                "southwest": {
+                    "lat": 37.2359182701,
+                    "lng": -121.7727523299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "52dc59917849c36cc848b8a4e9e84b941511e1ea",
+        "name": "Hideaway Lounge",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4320,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/115464225043106329617\/photos\">Steve Apker<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA6ktjjyLFKeZ-qvAzNuxcxiaHX9gJmwn2TPQch7KoKVeSxkTxfeD6UjTyBw_xiAaz_tgER06L3qGgz70_UORdRfbVEOm43Teipv3YxiHPEBvF00KEGQJ0GKZ7wSJaqyjTEhAZMyTylWB02m0-aR_RDsMSGhTL1sKi3g68T8-qMq6FInAXEI5DBg",
+                "width": 2432
+            }
+        ],
+        "place_id": "ChIJz-0ifqwvjoARl5-w7pNRd30",
+        "plus_code": {
+            "compound_code": "66PH+XF San Jose, California, United States",
+            "global_code": "849W66PH+XF"
+        },
+        "rating": 4.1,
+        "reference": "ChIJz-0ifqwvjoARl5-w7pNRd30",
+        "types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 117,
+        "price_level": 1.0
+    },
+    {
+        "formatted_address": "5152 Moorpark Ave #20, San Jose, CA 95129, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3088666,
+                "lng": -121.9937162
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3102977299,
+                    "lng": -121.9923703201
+                },
+                "southwest": {
+                    "lat": 37.3075980701,
+                    "lng": -121.9950699799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "a30a17cef60537c8f1efc930a7459abcb1dec92c",
+        "name": "Park Lane lounge",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102628207810644121472\/photos\">La Fibonacci<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAdgfCd_WtAwgygJJRMuLsaQ4l0k_lwMMMMFqT_ToJFPT04JguCIE4zDZyvFACCGXPbIxMdddRQ_ONSiOt-mfwZpe-K7Zhe6jgZaJX6uZNRjKAtcvw_UDnqwTsNsLTUVkAEhBVaElI9aV7lzNBo3v_T2_TGhTtGP9G-PFJ5jiTU_xGWQD6z86-0g",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJD4sCamC1j4ARNOuoogdAbEw",
+        "plus_code": {
+            "compound_code": "8254+GG San Jose, California, United States",
+            "global_code": "849W8254+GG"
+        },
+        "rating": 4.1,
+        "reference": "ChIJD4sCamC1j4ARNOuoogdAbEw",
+        "types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 107,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "1070 N 4th St, San Jose, CA 95112, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3584922,
+                "lng": -121.90266
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3597944299,
+                    "lng": -121.9014126201
+                },
+                "southwest": {
+                    "lat": 37.3570947701,
+                    "lng": -121.9041122799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "637789482aef54afdf6b7600140065b8e8e8badd",
+        "name": "Hyde Park Lounge",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 590,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117219944236651032587\/photos\">Hyde Park Lounge LLC<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAMgxpCxGP5cToZrS-6-eEaRfMByH4Wc34V5kmRPr_vT8zZvdU1LgkfEzqsIxVUs2FB5cX4IyXSj6NiC1llSPzjyQI-MU4zZcJ_f917WPMuTDEfZh1bLLODK_DbeDnwvn_EhDk6bLZBduFW-zm2i4hDfG9GhQteMTqZ5RWteX4ASLtPFWEbF_m8g",
+                "width": 852
+            }
+        ],
+        "place_id": "ChIJO9Uzo4DLj4AR5RW6Gsu5XRA",
+        "plus_code": {
+            "compound_code": "935W+9W San Jose, California, United States",
+            "global_code": "849W935W+9W"
+        },
+        "rating": 4.2,
+        "reference": "ChIJO9Uzo4DLj4AR5RW6Gsu5XRA",
+        "types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 95,
+        "price_level": 1.0
+    },
+    {
+        "formatted_address": "260 E Campbell Ave, Campbell, CA 95008, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2868459,
+                "lng": -121.9453916
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2883005299,
+                    "lng": -121.9440417201
+                },
+                "southwest": {
+                    "lat": 37.2856008701,
+                    "lng": -121.9467413799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "d343650e9ee2ca29a3bb7a1972ce925dfcdf5e85",
+        "name": "Cardiff Lounge",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3275,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105517743817884029127\/photos\">Danielle Riniolo<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAjDT-48ewDrl934wY5mJHC9zSP7lmbJYoyJtrgjQGcdQ89wEOr7ncE3ruKeKR0PwQkZzWHt9yQPnmJ-FrrKK031JE1H0jF7KVWdZjqaaTjyalYWiR-qE-zhsiWOdil6_fEhDfPKPZbbyRAZtZvRhKI5LiGhTp2p-IJ3XPwmLu_-ObmXhY05JOgw",
+                "width": 4913
+            }
+        ],
+        "place_id": "ChIJu6n-Dt80joARK6-nM0Ns7WU",
+        "plus_code": {
+            "compound_code": "73P3+PR Campbell, California, United States",
+            "global_code": "849W73P3+PR"
+        },
+        "rating": 4.1,
+        "reference": "ChIJu6n-Dt80joARK6-nM0Ns7WU",
+        "types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 184,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "377 Santana Row #1000, San Jose, CA 95128, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3200443,
+                "lng": -121.9482996
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3213890299,
+                    "lng": -121.9467838201
+                },
+                "southwest": {
+                    "lat": 37.3186893701,
+                    "lng": -121.9494834799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/restaurant-71.png",
+        "id": "c4a70411c94553e7db9437c24dbaa7cc3606c8f1",
+        "name": "Sino",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3036,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112600100804888977838\/photos\">Yuri Fominov<\/a>"
+                ],
+                "photo_reference": "CmRaAAAApMXqia2BWKYFVK0PYh7u67WupwhgvLRzNy-krNybBdQrE8UwaknJJ-SMnzXbNDAunkCHhbvod4ne6rzY_A15dsusln52MdCnwj0KcGaeb2uVBM-jVuWaTBjGVYGJ5Q9GEhC9IC-C2iZQlEVi1uv85ZMyGhSXtWITtbl9VmW9kh0eEUaSfChRpw",
+                "width": 4048
+            }
+        ],
+        "place_id": "ChIJM8WXzt_Kj4AR8ScOX3D4SOA",
+        "plus_code": {
+            "compound_code": "83C2+2M San Jose, California, United States",
+            "global_code": "849W83C2+2M"
+        },
+        "rating": 4.0,
+        "reference": "ChIJM8WXzt_Kj4AR8ScOX3D4SOA",
+        "types": [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 703,
+        "price_level": 3.0
+    },
+    {
+        "formatted_address": "398 S Bascom Ave, San Jose, CA 95128, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3219785,
+                "lng": -121.9316487
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3233438799,
+                    "lng": -121.9303880701
+                },
+                "southwest": {
+                    "lat": 37.3206442201,
+                    "lng": -121.9330877299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "825398675968826ad0e2984542d79d974ae402f6",
+        "name": "7 Stars Bar & Grill",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/102851046132241105541\/photos\">7 Stars Bar &amp; Grill<\/a>"
+                ],
+                "photo_reference": "CmRaAAAArnZe-1BVOYWyV_j89f7H8tgWAKYnnkw0n7et-dWXqhNK2KTyhxkM7TUW1z-o8MuwzAZgchheO82GwAOJmnd1-jcn8zaXxdcc9pETO71VBFbSMwWRkzp9jlHS7XJ1pyBCEhCbRtL_dATiPQZVv5wO7lwcGhRGgddAX1uvvmSy9blBHEkvAqLovg",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJ2T4ydTzLj4AR_e6E_D-Jj0g",
+        "plus_code": {
+            "compound_code": "83C9+Q8 San Jose, California, United States",
+            "global_code": "849W83C9+Q8"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ2T4ydTzLj4AR_e6E_D-Jj0g",
+        "types": [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 437,
+        "price_level": 1.0
+    },
+    {
+        "formatted_address": "65 N San Pedro St, San Jose, CA 95110, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3362201,
+                "lng": -121.8939061
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3376050799,
+                    "lng": -121.8924830201
+                },
+                "southwest": {
+                    "lat": 37.3349054201,
+                    "lng": -121.8951826799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "81b8ae3b8bedba9d763aec556cb8ffb02cfa9709",
+        "name": "District",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114973583042265878459\/photos\">A Google User<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA9oWXQagHl2NHfCxiWEVyk8FuTvpbjlXUbLhJMPC0UhMraF02fIpa-3z3VwXRpOgB-4WEmVjSdtovDnWAkm2P1JGciJua9gbEbkldHjoGBiM9LurhGaBQBMA92fMtIVaLEhBwHDAdTRgjESntHhzCIQVMGhTxlEXj_XYZlcgjPSblzeVx_QP-vg",
+                "width": 6000
+            }
+        ],
+        "place_id": "ChIJfS-oT6LMj4ARqmWyZ3jrg9k",
+        "plus_code": {
+            "compound_code": "84P4+FC San Jose, California, United States",
+            "global_code": "849W84P4+FC"
+        },
+        "rating": 4.3,
+        "reference": "ChIJfS-oT6LMj4ARqmWyZ3jrg9k",
+        "types": [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 420,
+        "price_level": null
+    },
+    {
+        "formatted_address": "1170 E Santa Clara St, San Jose, CA 95116, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3470505,
+                "lng": -121.8670678
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3485041299,
+                    "lng": -121.8657978201
+                },
+                "southwest": {
+                    "lat": 37.3458044701,
+                    "lng": -121.8684974799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/restaurant-71.png",
+        "id": "eecc57df86abcfb73f6228e117f20e424040aa43",
+        "name": "Plaza Garibaldi",
+        "opening_hours": null,
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112368979907316377251\/photos\">A Google User<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAq3Wx0pTpmG5yTbCWl6B65vMpyfD-rfPq2sipKYE-yF8ncM3GKl9sbprGNYq0EZpgJ4ehah18QJVd_rB6XeaOKwbHbtug1yxag2dFtvi612cZMgRjYA05bAa4S4ZoMSOrEhCV_MZYf7EBLk-q6GaxFaXDGhSUiy2DOVJxs5uffOYGsN9p271xfw",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJie1K4OfMj4ARnflMzJfdlVY",
+        "plus_code": {
+            "compound_code": "84WM+R5 San Jose, California, United States",
+            "global_code": "849W84WM+R5"
+        },
+        "rating": 4.2,
+        "reference": "ChIJie1K4OfMj4ARnflMzJfdlVY",
+        "types": [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 124,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "301 S Market St, San Jose, CA 95113, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3306141,
+                "lng": -121.8884579
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3320399799,
+                    "lng": -121.8870080701
+                },
+                "southwest": {
+                    "lat": 37.3293403201,
+                    "lng": -121.8897077299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bar-71.png",
+        "id": "6a41dee4e05a2da47be33e8c4aae9a82fb3ef53c",
+        "name": "Tanq Bar",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 423,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114982354255917185290\/photos\">Tanq Bar<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAZlFtvFckAVzUFXtmr5MUkAWWK17774BSkheRHvqaTwRq1Thdc03rf6Upt11oX2vlIA96uFaXUbJXfR3oDvmx4XZY_Svgkl-mm2vdyzXniFcUYSGKvXcNnRqErytX9HuCEhBKY2lSiwnVlxslb7GVzo2NGhS_9H1bB9c2eOdu0dPbyUsxKZZFOQ",
+                "width": 610
+            }
+        ],
+        "place_id": "ChIJF4TqnLrMj4ARKG9eHHYqO90",
+        "plus_code": {
+            "compound_code": "84J6+6J San Jose, California, United States",
+            "global_code": "849W84J6+6J"
+        },
+        "rating": 3.9,
+        "reference": "ChIJF4TqnLrMj4ARKG9eHHYqO90",
+        "types": [
+            "bar",
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 141,
+        "price_level": 2.0
+    },
+    {
+        "formatted_address": "398 E Santa Clara St, San Jose, CA 95112, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3399818,
+                "lng": -121.8821288
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3414093799,
+                    "lng": -121.8808358201
+                },
+                "southwest": {
+                    "lat": 37.3387097201,
+                    "lng": -121.8835354799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/generic_business-71.png",
+        "id": "7c1799c93962cf26e3c9f86acd75f82d32af5f50",
+        "name": "Cloudz Hookah Lounge",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107744317386287754266\/photos\">l<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAzN-_MVn9LkpUz991eAeJsg6HOmNM9H2MlMw4N9lNVR8Tl0_T7SLQ_YF7L-ucxru3d5O0TwSflvSEyxu72i7Uq_-Jus211j4geJMPRxikWaqiEtqt4ElayCvAusJUAamTEhCPv5ZWbvkpPLbobhoRPSutGhTzNNbBUFFu4cj3SYHSXFxsp9h5PQ",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJp_ZHTL7Mj4AR8-mddorlf40",
+        "plus_code": {
+            "compound_code": "84Q9+X4 San Jose, California, United States",
+            "global_code": "849W84Q9+X4"
+        },
+        "rating": 4.2,
+        "reference": "ChIJp_ZHTL7Mj4AR8-mddorlf40",
+        "types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 95,
+        "price_level": null
+    }
+]

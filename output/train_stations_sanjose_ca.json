@@ -1,0 +1,324 @@
+[
+    {
+        "formatted_address": "65 Cahill St, San Jose, CA 95110, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.329935,
+                "lng": -121.902496
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3311986299,
+                    "lng": -121.9013431201
+                },
+                "southwest": {
+                    "lat": 37.3284989701,
+                    "lng": -121.9040427799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/generic_business-71.png",
+        "id": "53f1caffb224fca80ef4599d722c29648fb7324e",
+        "name": "San Jose Diridon Station",
+        "photos": [
+            {
+                "height": 2835,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106022351549650853626\/photos\">Catherine Callahan<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAPua6lAYNWtiXHkXZRitwCZ3RSUgnHNuXkl6xsQL2EWxvkzvAR3qMldRpUJE-08W9-xZMFb3GubXO0_wbW6dkXpH_85G9Vkts0-U3q_ey4juADpkLQegFsI-O2LA3t2kbEhDTVJvJNuKeLazEwPeNVs8WGhR-lTM3v5L-q-t2mY8bvPrTKscHyQ",
+                "width": 2835
+            }
+        ],
+        "place_id": "ChIJcxvhpFjLj4ARGihJBiinO54",
+        "plus_code": {
+            "compound_code": "83HX+X2 San Jose, California, United States",
+            "global_code": "849W83HX+X2"
+        },
+        "rating": 4.0,
+        "reference": "ChIJcxvhpFjLj4ARGihJBiinO54",
+        "types": [
+            "transit_station",
+            "train_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 206
+    },
+    {
+        "formatted_address": "1355 Lick Ave, San Jose, CA 95110, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3126323,
+                "lng": -121.8847168
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3140271799,
+                    "lng": -121.8832846201
+                },
+                "southwest": {
+                    "lat": 37.3113275201,
+                    "lng": -121.8859842799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/train-71.png",
+        "id": "31cab6a7ff1da4a45a45bc1a6171f46652fc9279",
+        "name": "Tamien Caltrain",
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105534078865799686629\/photos\">Matt Troutman<\/a>"
+                ],
+                "photo_reference": "CmRZAAAAbhRtt2eFyErto8i2AuTkN-d7D4r0-zmipP3HoCckQxGRv6085yCQ13ucuktFPCxAdRsJR2tOsUM8AzVkQpGG2nhI3Zdxt1x0nVcw-AU6I7jxXKNnBdEJaMi3JIdazeFzEhADwLZ8_2m4uILUkdBnPv_0GhTvwmk8VWLRxakA2pDVOYAryHXHxg",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJEzygWUYzjoARhe3l2OFtPpI",
+        "plus_code": {
+            "compound_code": "8478+34 San Jose, California, United States",
+            "global_code": "849W8478+34"
+        },
+        "rating": 3.5,
+        "reference": "ChIJEzygWUYzjoARhe3l2OFtPpI",
+        "types": [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 22
+    },
+    {
+        "formatted_address": "5560 Monterey Rd, San Jose, CA 95138, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2524092,
+                "lng": -121.7974864
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2536569299,
+                    "lng": -121.7961004201
+                },
+                "southwest": {
+                    "lat": 37.2509572701,
+                    "lng": -121.7988000799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/train-71.png",
+        "id": "c04ef847f560399c7a72555b25440e781bf23b8b",
+        "name": "Blossom Hill",
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114597790585865617031\/photos\">Daysi Santos<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAHkqw4zyipmC6ZMbtTBH6zVOXIpkGsSt4sT3Fzqrc4X8O2zoZFpe26Ddf0IxyFRvWm_lsD2b3qD-aOGzSbsxwvz37tO1cnNQDb43J0yIO8DKnEs1bZwQT5QGr-_C6MQNDEhDBZX_wSRRJaMWaLLhJ5ixrGhRwlhfz6CaP1N6_JROnkIefl7MjUA",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJhUHpwBcujoAR_4gFigoHmGg",
+        "plus_code": {
+            "compound_code": "7623+X2 San Jose, California, United States",
+            "global_code": "849W7623+X2"
+        },
+        "rating": 4.0,
+        "reference": "ChIJhUHpwBcujoAR_4gFigoHmGg",
+        "types": [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5
+    },
+    {
+        "formatted_address": "780 Stockton Ave, San Jose, CA 95126, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3426862,
+                "lng": -121.9155326
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3439375299,
+                    "lng": -121.9141558201
+                },
+                "southwest": {
+                    "lat": 37.3412378701,
+                    "lng": -121.9168554799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/train-71.png",
+        "id": "5070f7eae0a94b5fc58c82c9b233da7514ec610d",
+        "name": "College Park",
+        "photos": [
+            {
+                "height": 2744,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/112809598656679076137\/photos\">A Google User<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAaQCSZdlXOCCjMQt64SkPLHxvYoO6Mf1CLpIhcObnV5ckZefDOoJSG063CH3X_n1Z_5B1ZdLRt5QLkdsyhVr4UhgvVA592fWjsPdEODlJNWinOhFaWH6vUGQipfDBiv9NEhDlFn7YnrZ7PLdN5HaYSj5DGhSj1bdjYW6KRFozC9uYCZUn9ui3bg",
+                "width": 3662
+            }
+        ],
+        "place_id": "ChIJ8U1jTnDLj4ARgMaCQXTu6M4",
+        "plus_code": {
+            "compound_code": "83VM+3Q San Jose, California, United States",
+            "global_code": "849W83VM+3Q"
+        },
+        "rating": 3.8,
+        "reference": "ChIJ8U1jTnDLj4ARgMaCQXTu6M4",
+        "types": [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 6
+    },
+    {
+        "formatted_address": "San Jose, CA 95110, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3306668,
+                "lng": -121.9023781
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3320122799,
+                    "lng": -121.9008847201
+                },
+                "southwest": {
+                    "lat": 37.3293126201,
+                    "lng": -121.9035843799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/bus-71.png",
+        "id": "28519d5a82850b35d7cd44447b35c11a2baa31d3",
+        "name": "San Jose Diridon Station",
+        "photos": [
+            {
+                "height": 2000,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107965596502544776196\/photos\">\u6cb3\u91ce\u7701\u609f<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAbyNCE9hT0mfr0RgGJtledTtXwwvN_omq9Wm6MlaOgrQUzi_LJ5YYMKI0q2UjeEcML_qd-tv0EokFSQQwOqVYAWhLLLanygzgtQUoCZWTienDFziPB2ucFTN4lg0in9sjEhC6RryZbVQCBdwxcCo7ybpcGhTHz5ZpntF-i5EoJ_NNlDH6CiviFw",
+                "width": 3008
+            }
+        ],
+        "place_id": "ChIJkf1LqVjLj4ARdA1ygyukEGw",
+        "plus_code": {
+            "compound_code": "83JX+72 San Jose, California, United States",
+            "global_code": "849W83JX+72"
+        },
+        "rating": 4.1,
+        "reference": "ChIJkf1LqVjLj4ARdA1ygyukEGw",
+        "types": [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 72
+    },
+    {
+        "formatted_address": "San Jose, CA 95111, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2839762,
+                "lng": -121.8417687
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2854017299,
+                    "lng": -121.8403641201
+                },
+                "southwest": {
+                    "lat": 37.2827020701,
+                    "lng": -121.8430637799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/train-71.png",
+        "id": "e9c66c37679f9fd79fbd200b50fb19d26fca5a28",
+        "name": "Capitol Station",
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110573680493698613351\/photos\">Bharat Doshi<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAkCP1i7e2deFCW6ELu7hbnDlVihJIqNjCB3A10D6h2y8pnqTxv5OYfFcWdjPQvMxmrg7l1HPcsBQl8RRGRZWoKx3AMYL40k7HGLMkTQZ8sQ2K9sGPxosCP9L5gkCBVhTDEhBG997T1jXH7guHgFjHG6BLGhTZrs9wjYd0Dw0m6HkFuHwQwvp3vQ",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ4yuJVUQyjoARawUnYpbWHEM",
+        "plus_code": {
+            "compound_code": "75M5+H7 San Jose, California, United States",
+            "global_code": "849W75M5+H7"
+        },
+        "rating": 4.0,
+        "reference": "ChIJ4yuJVUQyjoARawUnYpbWHEM",
+        "types": [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 8
+    },
+    {
+        "formatted_address": "1001 Railroad Ave, Santa Clara, CA 95050, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.353218,
+                "lng": -121.936453
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.35509505,
+                    "lng": -121.9354366201
+                },
+                "southwest": {
+                    "lat": 37.35238765,
+                    "lng": -121.9381362799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/train-71.png",
+        "id": "163e4ac271d5626bed4491044e88ceedcaeb8028",
+        "name": "Santa Clara Station",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108943251406836927701\/photos\">Arthur Nen<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAypobLL8WR4U4C77xljvU9KcS7z4MOxB9DInJlfnxCb9COyDIVqKh4q8MNUQOyF4VIAId7HhqoLbPtXI4RrYJJxQarKB1E1xtSoxV9px1Yi_Vm0_0RPs3UnY4lIzWH_UWEhBz_SlNNJKWTqnFm7TnydQ2GhS35c5HkKvgmOpgA7gILgYb3iM_BA",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ85y9jK_Lj4ARyVVdPoKONcE",
+        "plus_code": {
+            "compound_code": "9337+7C Santa Clara, California, United States",
+            "global_code": "849W9337+7C"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ85y9jK_Lj4ARyVVdPoKONcE",
+        "types": [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 58
+    }
+]

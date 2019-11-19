@@ -1,0 +1,47 @@
+[
+    {
+        "formatted_address": "1701 Airport Blvd, San Jose, CA 95110, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3639472,
+                "lng": -121.9289375
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.37540915,
+                    "lng": -121.9136433
+                },
+                "southwest": {
+                    "lat": 37.35761735,
+                    "lng": -121.9362261
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/airport-71.png",
+        "id": "2f215636bac933e493adba23bfef4d54fd6d2fc5",
+        "name": "Norman Y. Mineta San Jose International Airport",
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114995550201401114735\/photos\">Vikas Kumar<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA9I2OygCioyVp9--a2zsuld6FsjZEm_a-_6hM88QWhyrNG4CbxjddJo6YJoMMNTFgYiwiU16DLcBEWDmIqKDYhKMzE6PaPGTwspEAxXoW_L3mytMk2-ga3YpquIIZFNoNEhAp28WTQv6hzA-nuqczVYh8GhSdHb8F5sYEZQldndjeF0WQSGl5OQ",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJm8Wz-sPLj4ARPn72bT9E-rw",
+        "plus_code": {
+            "compound_code": "937C+HC San Jose, California, United States",
+            "global_code": "849W937C+HC"
+        },
+        "rating": 4.1,
+        "reference": "ChIJm8Wz-sPLj4ARPn72bT9E-rw",
+        "types": [
+            "airport",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1578
+    }
+]

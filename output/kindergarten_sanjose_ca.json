@@ -1,0 +1,2718 @@
+[
+    {
+        "formatted_address": "881 Cypress Ave, San Jose, CA 95117, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3111618,
+                "lng": -121.960402
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3129307799,
+                    "lng": -121.95902335
+                },
+                "southwest": {
+                    "lat": 37.3102311201,
+                    "lng": -121.96196675
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "14e4d5225caca4b5301423df2ed5221f54d62a20",
+        "name": "Lynhaven Elementary School",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118176620259967267730\/photos\">Mike Maraldo<\/a>"
+                ],
+                "photo_reference": "CmRaAAAASSdfDrsLfyZUgJrnQtaOgFy22sv78kRagnnp8o-e2qWiXQlC7soRWDmoDtjVL3pTGAsS4jz6l4a6t4whywyTOtGa3jJLAjj2hTO2ECgkgrYkz0_CrprUO31rUQ25H9oDEhBGNgqURrVBP68JmV-kFU44GhQ9Xw4NOs4IJYF_UwKAnROCv8JItA",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJA_PGIMXKj4AROQ63NM0e2_k",
+        "plus_code": {
+            "compound_code": "826Q+FR San Jose, California, United States",
+            "global_code": "849W826Q+FR"
+        },
+        "rating": 4.9,
+        "reference": "ChIJA_PGIMXKj4AROQ63NM0e2_k",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 15,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "530 Gettysburg Dr, San Jose, CA 95123, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2473573,
+                "lng": -121.8368618
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2488338799,
+                    "lng": -121.8355136701
+                },
+                "southwest": {
+                    "lat": 37.2461342201,
+                    "lng": -121.8382133299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "7664dfb48f019e6989b5da940b463cf5b2aeed9d",
+        "name": "Earl Frost Elementary School",
+        "photos": null,
+        "place_id": "ChIJP8IFW5IxjoARw_OjTSseLZo",
+        "plus_code": {
+            "compound_code": "65W7+W7 San Jose, California, United States",
+            "global_code": "849W65W7+W7"
+        },
+        "rating": 4.1,
+        "reference": "ChIJP8IFW5IxjoARw_OjTSseLZo",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 20,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "1855 Lencar Way, San Jose, CA 95124, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2559408,
+                "lng": -121.9201995
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2573385299,
+                    "lng": -121.9191686701
+                },
+                "southwest": {
+                    "lat": 37.2546388701,
+                    "lng": -121.9218683299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "1be89ec78f6ca619ddfa830c795b6b7a0ec6d19d",
+        "name": "Oster Elementary School",
+        "photos": null,
+        "place_id": "ChIJqQeQkWs0joAREexDKPeE0XY",
+        "plus_code": {
+            "compound_code": "734H+9W San Jose, California, United States",
+            "global_code": "849W734H+9W"
+        },
+        "rating": 4.9,
+        "reference": "ChIJqQeQkWs0joAREexDKPeE0XY",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 16,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "6515 Grapevine Way, San Jose, CA 95120, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.22049,
+                "lng": -121.8691255
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2217053299,
+                    "lng": -121.8674580201
+                },
+                "southwest": {
+                    "lat": 37.2190056701,
+                    "lng": -121.8701576799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "fba4227f06f4698f36291d4fcc749071844f2e75",
+        "name": "Simonds Elementary School",
+        "photos": [
+            {
+                "height": 3008,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106831321692335198912\/photos\">Kamran Najafi<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAj_Dhnt6Tgv7QlWjy0uq3v4UgTaUgebitgZ0_tsCrzQQPY5jmEGynqnw1eyRBE3p7jfuTUQuMLhcC0rXILEYp5eCTRtDuSxAUpj_bnqFKvoS3GbCOTglZ1KmpuxVmv9ofEhDafEWXA1x9cBW-Ui3lDkG6GhRX71hhpxRSLGkFWGyG4LOl4aZVvw",
+                "width": 4016
+            }
+        ],
+        "place_id": "ChIJO_EDqBoxjoARPx_rPbDCOsU",
+        "plus_code": {
+            "compound_code": "64CJ+58 San Jose, California, United States",
+            "global_code": "849W64CJ+58"
+        },
+        "rating": 4.1,
+        "reference": "ChIJO_EDqBoxjoARPx_rPbDCOsU",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 25,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "6982 Shearwater Dr, San Jose, CA 95120, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2114615,
+                "lng": -121.8372381
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2127664299,
+                    "lng": -121.8360875701
+                },
+                "southwest": {
+                    "lat": 37.2100667701,
+                    "lng": -121.8387872299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "97bfb4195df8d46a6583ba84e4accf393b7c41d5",
+        "name": "Graystone Elementary School",
+        "photos": [
+            {
+                "height": 480,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118317651189273424034\/photos\">Brianna Le<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAbz_d6VlXOZ88sc6Gs57PHDdL0_CekC4ecTdBfL8QHA6VD2OMKB4FYxL8Oy1opIU75s-Wa5cc9oMV1uoQeyd5GMjg7wskW3MbXsrwn32f7nEbFOA9_cn8ol3a6YywYokTEhDdwrjJlrNw2RZ-gWDjpZ-yGhRfOm-Yg0pExMqiae6099HEr-CEfg",
+                "width": 480
+            }
+        ],
+        "place_id": "ChIJXRBtokgwjoARn6owIPjXGr4",
+        "plus_code": {
+            "compound_code": "6567+H4 San Jose, California, United States",
+            "global_code": "849W6567+H4"
+        },
+        "rating": 4.6,
+        "reference": "ChIJXRBtokgwjoARn6owIPjXGr4",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 7,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "420 Tully Rd, San Jose, CA 95111, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3047222,
+                "lng": -121.8519112
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3061019799,
+                    "lng": -121.8505939701
+                },
+                "southwest": {
+                    "lat": 37.3034023201,
+                    "lng": -121.8532936299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "1ed0a1148e40cbeb5e112b29f6a39cfb1adf95b1",
+        "name": "Franklin Elementary School",
+        "photos": [
+            {
+                "height": 2560,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/108734233188221925525\/photos\">Johnny Ramos<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAkHwITmZLEkK_Ai9Sz6JHs3E8L8C7aw_3c557gJuh2tEueCT2cfoaOVx1_Cq3vor_7s_hTljGUb2nCOXiYqCjkief96L86Vw3_JQ4Gg6Y5ne1LjmeQA57zp-gxJnFiKX7EhCFt18fdNczXKSFB__CsrwXGhTAwSZMuljPAeDps4daelRMxI4Cew",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJt9NPg-MyjoARCx4OGSWnO8w",
+        "plus_code": {
+            "compound_code": "843X+V6 San Jose, California, United States",
+            "global_code": "849W843X+V6"
+        },
+        "rating": 4.2,
+        "reference": "ChIJt9NPg-MyjoARCx4OGSWnO8w",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 6,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "2000 Kammerer Ave, San Jose, CA 95116, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3493427,
+                "lng": -121.8452304
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3505043299,
+                    "lng": -121.8442525701
+                },
+                "southwest": {
+                    "lat": 37.3478046701,
+                    "lng": -121.8469522299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "ab1b4927fd292c4c1e84199c540804508a204e86",
+        "name": "Cesar Chavez Elementary School",
+        "photos": [
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110530732671928110124\/photos\">Anna Ess<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAQgvXBY2psITpKyu1FUYgi7xjPI38fWODELdKsLKGbJjxkigwd23dcZW9ieOhZG8BOBRbQGtgE7LDawinfawY2SZM2m72pEveP39CtdvTegAJLzN2jb3a3eDSKbkIogA-EhC4HPnRGVDyKUzAqctqLlPyGhRMcUvc9ydU8QzRPd0FkDQNzCsKEg",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJ-Q_CJCPNj4ARSguB8Gpc74o",
+        "plus_code": {
+            "compound_code": "85X3+PW San Jose, California, United States",
+            "global_code": "849W85X3+PW"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ-Q_CJCPNj4ARSguB8Gpc74o",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 10,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "1101 Strayer Dr, San Jose, CA 95129, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3064242,
+                "lng": -122.0080774
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3082750299,
+                    "lng": -122.0060646201
+                },
+                "southwest": {
+                    "lat": 37.3055753701,
+                    "lng": -122.0087642799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "49b8977f8cb4b04f1784564d036ac0b1694c057e",
+        "name": "Nelson S. Dilworth Elementary School",
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110379795638616239886\/photos\">Paul Chiang<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAw3Ni2BZgkYexPuR1enAJwdQ-yjJytggtY5-pMymYYbPERQXcRSuNcWgCxbcPXcc6-6zsF3MfSfcCDQYizfdMpqOfPE6EqF2J1IpLJfn4KNXyLjgIQ9ZDzT2_wFdrdnxMEhCIrgFu-ugCg7zoBnt4bzriGhRkL0o_t1_so7w59p6fh45BEX1faA",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJv-AoDGm1j4ARu9f8g8g4G54",
+        "plus_code": {
+            "compound_code": "8X4R+HQ San Jose, California, United States",
+            "global_code": "849V8X4R+HQ"
+        },
+        "rating": 5.0,
+        "reference": "ChIJv-AoDGm1j4ARu9f8g8g4G54",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 14,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "2220 Woodbury Ln, San Jose, CA 95121, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2966051,
+                "lng": -121.7871034
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2984081799,
+                    "lng": -121.7857428201
+                },
+                "southwest": {
+                    "lat": 37.2957085201,
+                    "lng": -121.7884424799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "2e1430eae5dfb36e4ead7df3eb8abdf0c519e3b4",
+        "name": "James Franklin Smith Elementary School",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104339708403933471402\/photos\">Nhung Phung<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAJzlkYb0MfjJJfuFFWjfgIuoDy78WRiiQM0Tnaf-BM27gQ_jWr67MCiNq4BYwxw-Uhn2Q5A-S1H1Jxvy0wGFIArKBxPg9oT5hDxqcVLQAIeDkN3WsHrBabDT9XfEmCs1sEhAaZija9n40DHWZDvOKdauPGhQ4SyQeiYzeONgSvWcNsHLeAB-5CQ",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJrXPxF74tjoARkeu39_GmcK4",
+        "plus_code": {
+            "compound_code": "76W7+J5 San Jose, California, United States",
+            "global_code": "849W76W7+J5"
+        },
+        "rating": 4.5,
+        "reference": "ChIJrXPxF74tjoARkeu39_GmcK4",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 18,
+        "opening_hours": {
+            "open_now": true
+        }
+    },
+    {
+        "formatted_address": "2760 Trimble Rd, San Jose, CA 95132, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.4090273,
+                "lng": -121.8813289
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.4104686799,
+                    "lng": -121.8798789701
+                },
+                "southwest": {
+                    "lat": 37.4077690201,
+                    "lng": -121.8825786299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "2545f5695a9dee861dd08163dc27d66af3a00b91",
+        "name": "Northwood Elementary School",
+        "photos": [
+            {
+                "height": 5312,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109787352731606792817\/photos\">Shirish Borkar<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA1JFv2gHE8nzG8klth1ka0CrxYy1XvvJnEdKBTvNU1W6yKrzL2oZp9LTgqdKDPfToK98hU9Xw-Y-PqQvcLAX3X5Z19tVf0KVkdSnJA9-xIxpiPhN0tYlBNNh915Fw32R9EhAbr2OmMnSb0CWLyJCxU5KZGhT-8qFWvU3Q1vv3DrsVRGUEguC_Sg",
+                "width": 2988
+            }
+        ],
+        "place_id": "ChIJKYcoxaLOj4ARQ08Q54_xW_Y",
+        "plus_code": {
+            "compound_code": "C459+JF San Jose, California, United States",
+            "global_code": "849WC459+JF"
+        },
+        "rating": 4.3,
+        "reference": "ChIJKYcoxaLOj4ARQ08Q54_xW_Y",
+        "types": [
+            "school",
+            "primary_school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 11,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "6990 Melvin Dr, San Jose, CA 95129, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3064954,
+                "lng": -122.0264295
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3079496799,
+                    "lng": -122.0253755701
+                },
+                "southwest": {
+                    "lat": 37.3052500201,
+                    "lng": -122.0280752299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "b01e654047f494aaefc0746e55975126785210eb",
+        "name": "R.I. Meyerholz Elementary School",
+        "photos": [
+            {
+                "height": 1936,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105855214143723168943\/photos\">Bmkvgs P<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAgDwPj3PmYpz-sh2hKTlCAJXpaOWhv3i9GX4y6VxuLFWVoHGXgT2SVEy6munuGf9Z28aNVkbZZwJ6WnmbDWuXPS_P4fvj6Z4j5D1UKpLAM-1AjHpkXW512WK2FjHRMe5UEhAg2v5vylOfXflXo19EfwZQGhQc7aJnsxMNBgruUT0ukGFtWvCb9w",
+                "width": 2592
+            }
+        ],
+        "place_id": "ChIJhcAcBhC1j4ARe42OK7Z89q8",
+        "plus_code": {
+            "compound_code": "8X4F+HC San Jose, California, United States",
+            "global_code": "849V8X4F+HC"
+        },
+        "rating": 4.5,
+        "reference": "ChIJhcAcBhC1j4ARe42OK7Z89q8",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 17,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "750 N Capitol Ave D, San Jose, CA 95133, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3788827,
+                "lng": -121.8508879
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3801713299,
+                    "lng": -121.8496328201
+                },
+                "southwest": {
+                    "lat": 37.3774716701,
+                    "lng": -121.8523324799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "e4d6dda5fc14e43ca5a3757ffed603904b9d3732",
+        "name": "Merryhill Elementary School",
+        "photos": [
+            {
+                "height": 3744,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118285886564653562137\/photos\">Merryhill School<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAHhO39rCSTb9z76v2XKLN6eidzNVrX6-7t6ko0r4jZJNlxNusTcQ9XHbl12nDpB7SZcTTpOtI4PRwflehoHKtLYrSwdrN3nEi4IeSK1Pl3cWbu1a9BwrTjt6PYnG2-8TqEhDHrnlhwk_qYkNQJVAZ17yyGhQqy3hZQrCPpsSQytabNASpFnYpJQ",
+                "width": 5616
+            }
+        ],
+        "place_id": "ChIJc1OldK7Nj4ARGsFoTkXwWvk",
+        "plus_code": {
+            "compound_code": "94HX+HJ San Jose, California, United States",
+            "global_code": "849W94HX+HJ"
+        },
+        "rating": 4.0,
+        "reference": "ChIJc1OldK7Nj4ARGsFoTkXwWvk",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5,
+        "opening_hours": {
+            "open_now": true
+        }
+    },
+    {
+        "formatted_address": "4245 Meg Dr, San Jose, CA 95136, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2699607,
+                "lng": -121.8552381
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2715641799,
+                    "lng": -121.8540822701
+                },
+                "southwest": {
+                    "lat": 37.2688645201,
+                    "lng": -121.8567819299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "01f9fcb3125c4e23230b367df2082f23c19f182c",
+        "name": "Rachel Carson Elementary School",
+        "photos": null,
+        "place_id": "ChIJ778v3TQyjoARm_y2wk-8JVg",
+        "plus_code": {
+            "compound_code": "749V+XW San Jose, California, United States",
+            "global_code": "849W749V+XW"
+        },
+        "rating": 3.9,
+        "reference": "ChIJ778v3TQyjoARm_y2wk-8JVg",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 8,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "5920 Bufkin Dr, San Jose, CA 95123, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2410553,
+                "lng": -121.8203823
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2423981799,
+                    "lng": -121.8194578201
+                },
+                "southwest": {
+                    "lat": 37.2396985201,
+                    "lng": -121.8221574799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "1ec5cc6279894aae06ee80fdb9495dc919a45f3f",
+        "name": "Oak Ridge Elementary School",
+        "photos": [
+            {
+                "height": 3264,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/116942066896866370550\/photos\">Ngan Hang<\/a>"
+                ],
+                "photo_reference": "CmRaAAAASeo_BMwwjHqfUQagqgTRTEuNzBDFgSijBfSRyRkcf4_AI6TCOrvjKRn9AjBXjOfpdzvFLIPRTsJHfx9azEt6-nXVcFJctpcFntGfOQ5zNao203nTuybt5WrbCcnV1Au7EhBghdDOsE8aIbDQxGbY38JBGhTtjWVrWHzit6I3e3r6Mub-XFqtQw",
+                "width": 2448
+            }
+        ],
+        "place_id": "ChIJJxUCxdwxjoAR6lVka4h44vs",
+        "plus_code": {
+            "compound_code": "65RH+CR San Jose, California, United States",
+            "global_code": "849W65RH+CR"
+        },
+        "rating": 3.9,
+        "reference": "ChIJJxUCxdwxjoAR6lVka4h44vs",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 8,
+        "opening_hours": {
+            "open_now": true
+        }
+    },
+    {
+        "formatted_address": "1295 Dentwood Dr, San Jose, CA 95118, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2514516,
+                "lng": -121.8848734
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2526976799,
+                    "lng": -121.8839114701
+                },
+                "southwest": {
+                    "lat": 37.2499980201,
+                    "lng": -121.8866111299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "6c38ab8f9de9f9ad0791436443ccbb265c6058e4",
+        "name": "Almaden Elementary School",
+        "photos": [
+            {
+                "height": 1600,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105286466148554537548\/photos\">A Google User<\/a>"
+                ],
+                "photo_reference": "CmRZAAAAtZlnA_zl4Qkr-0CCtJbEWe9Z989rpLK07JNtGKp7TcxZBEJlqAl-2nyoCEGayiN91KWA9EyLBBDywsZIIHl430lHsVAUsKIbWcyuqBeZiHcvW6T6oebx12HnPRbxeYC1EhAcMigOaYCe7GDvNmSxaKFdGhQBCv39vfszvhV4_5HIUZKx5ykUag",
+                "width": 900
+            }
+        ],
+        "place_id": "ChIJr5BxgOYzjoAR6n10DaSeK4w",
+        "plus_code": {
+            "compound_code": "7428+H3 San Jose, California, United States",
+            "global_code": "849W7428+H3"
+        },
+        "rating": 4.8,
+        "reference": "ChIJr5BxgOYzjoAR6n10DaSeK4w",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 15,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "2424-2448 Carlton Ave, San Jose, CA 95124, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2481908,
+                "lng": -121.9460133
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2495506299,
+                    "lng": -121.9446634201
+                },
+                "southwest": {
+                    "lat": 37.2468509701,
+                    "lng": -121.9473630799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "6473624cefed399461d517745ec482231350206f",
+        "name": "Carlton Elementary School",
+        "photos": null,
+        "place_id": "ChIJAYVHIks0joARJrF-EPvrKuk",
+        "plus_code": {
+            "compound_code": "63X3+7H San Jose, California, United States",
+            "global_code": "849W63X3+7H"
+        },
+        "rating": 3.5,
+        "reference": "ChIJAYVHIks0joARJrF-EPvrKuk",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "6044 Vera Cruz Dr, San Jose, CA 95120, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2287689,
+                "lng": -121.8969314
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2297741799,
+                    "lng": -121.8958871201
+                },
+                "southwest": {
+                    "lat": 37.2270745201,
+                    "lng": -121.8985867799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "9fe81ce1e4f76995facfc88a1e651fcf748d5284",
+        "name": "Guadalupe Elementary School",
+        "photos": [
+            {
+                "height": 1960,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110399232432184144975\/photos\">YoungSeol Kim<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAk9n0Ruz_EEVk_yv8d6Y2jn9uVRE_SWuJ21WSnJkwKkqAAr5GvpEF6Qjuud8-FEOUMLanKp3Ft_jLuQ5oulmYcpBMz5mDkeahRF3kjFD8QUpIZSsz-WLPk4QVnQEsaPwrEhBQ_GlWbVRdVfB4nQ08eJ-JGhQtfBErtQGnr6AowuMOOxQY7WZbjg",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJM6mDMkwxjoARO0OP36RVOJw",
+        "plus_code": {
+            "compound_code": "64H3+G6 San Jose, California, United States",
+            "global_code": "849W64H3+G6"
+        },
+        "rating": 4.3,
+        "reference": "ChIJM6mDMkwxjoARO0OP36RVOJw",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 13,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "102 Sonora Ave, San Jose, CA 95110, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3631457,
+                "lng": -121.9128029
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3646238799,
+                    "lng": -121.9115044201
+                },
+                "southwest": {
+                    "lat": 37.3619242201,
+                    "lng": -121.9142040799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "fb43cf6e0bf6c916efda2c94666a5ee05ff39604",
+        "name": "Bachrodt Elementary School",
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106003806626916502164\/photos\">A Google User<\/a>"
+                ],
+                "photo_reference": "CmRaAAAApDoJJtQKmvxJjOBB2rbBg-zGAvrtbIy0erl6R7YigddNEkiVIKJ6jkQcaXXxNR-pXpeTILyx5TK-RMjETGEwkzstDi4D8cfmQFJdPyjnKto9s-LpWbh1ze2N3J9FxlJDEhBrhy5mEI63gAYV-Y2FRFDBGhSflSdwISCYheqwLB8FsR-rPxqKqA",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJT4wM1I_Lj4AREy5mtIFQqL0",
+        "plus_code": {
+            "compound_code": "937P+7V San Jose, California, United States",
+            "global_code": "849W937P+7V"
+        },
+        "rating": 4.2,
+        "reference": "ChIJT4wM1I_Lj4AREy5mtIFQqL0",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 13,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "6130 Silberman Dr, San Jose, CA 95120, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2283561,
+                "lng": -121.8802103
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2297003299,
+                    "lng": -121.8792623201
+                },
+                "southwest": {
+                    "lat": 37.2270006701,
+                    "lng": -121.8819619799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "7233e7323a73274c4a9df8cfe591fa87e483a68e",
+        "name": "Los Alamitos Elementary School",
+        "photos": null,
+        "place_id": "ChIJHdTGOUAxjoARsx71p5YG_nk",
+        "plus_code": {
+            "compound_code": "64H9+8W San Jose, California, United States",
+            "global_code": "849W64H9+8W"
+        },
+        "rating": 4.0,
+        "reference": "ChIJHdTGOUAxjoARsx71p5YG_nk",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 8,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "3500 Amber Dr, San Jose, CA 95117, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3044858,
+                "lng": -121.9593033
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3058345299,
+                    "lng": -121.9579910201
+                },
+                "southwest": {
+                    "lat": 37.3031348701,
+                    "lng": -121.9606906799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "313c1c4b5cb1459179734813848ecb59411353f8",
+        "name": "Action Day Primary Plus - Amber",
+        "photos": [
+            {
+                "height": 479,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111126267050912592592\/photos\">Action Day Primary Plus - Amber<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAh_n77l6oAzYWQFt6HgybLjEyz0CP22l0B66pTvH92Ev-gMuVmCE2ZNvnlTc3Nhsas9mMJJVDRXehWT1BRzru3EEl-kqLD-S5x1UkB-5su8oQsMb5o1NMHTGaLo7MFOH6EhCBhEfQFsAuIEmRoLbjlVXvGhSHU7cW77fvEsL5xXMsxbQaQBgB_g",
+                "width": 720
+            }
+        ],
+        "place_id": "ChIJo0TsCM7Kj4ARxi2GZVfbVm0",
+        "plus_code": {
+            "compound_code": "823R+Q7 San Jose, California, United States",
+            "global_code": "849W823R+Q7"
+        },
+        "rating": 5.0,
+        "reference": "ChIJo0TsCM7Kj4ARxi2GZVfbVm0",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 7,
+        "opening_hours": {
+            "open_now": true
+        }
+    },
+    {
+        "formatted_address": "410 Sautner Dr, San Jose, CA 95123, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2303998,
+                "lng": -121.8085248
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2319202299,
+                    "lng": -121.8073242201
+                },
+                "southwest": {
+                    "lat": 37.2292205701,
+                    "lng": -121.8100238799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "f69f0c84d3103db9e0c7b63b57926dbe10fab96b",
+        "name": "Bertha Taylor Elementary School",
+        "photos": [
+            {
+                "height": 3088,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100191862579326422621\/photos\">Grasping Mist<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAx0dK39Kcv_XCO5grQGivQTzPw2vg2Ta8tOFIryhqWRIDg0WhAtO3yKFtR-0Fo9SLpUEIiFCADRGL7EggHVnYU9spjC2-Kt6qJ9U8_TVmhb-DRlLF01wPsSNTCpD0xFuwEhAW_n5Fqa0qZrZy56ocAAx2GhTvHkX2Hrk2dfWeZxJ-0uQVk7YhBw",
+                "width": 2320
+            }
+        ],
+        "place_id": "ChIJWYn95youjoARQJmS41Ukio0",
+        "plus_code": {
+            "compound_code": "65JR+5H San Jose, California, United States",
+            "global_code": "849W65JR+5H"
+        },
+        "rating": 4.1,
+        "reference": "ChIJWYn95youjoARQJmS41Ukio0",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 13,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "4450 McCoy Ave, San Jose, CA 95130, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2760185,
+                "lng": -121.9825106
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2773683299,
+                    "lng": -121.9811607701
+                },
+                "southwest": {
+                    "lat": 37.2746686701,
+                    "lng": -121.9838604299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "f3954d201849dbdc88e57ce92f87e1d802e03d5c",
+        "name": "Forest Hill Elementary School",
+        "photos": null,
+        "place_id": "ChIJ6w-Q40I1joAROAJRXtxLLbg",
+        "plus_code": {
+            "compound_code": "72G8+CX Campbell, California, United States",
+            "global_code": "849W72G8+CX"
+        },
+        "rating": 4.6,
+        "reference": "ChIJ6w-Q40I1joAROAJRXtxLLbg",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 10,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "4950 Mitty Way, San Jose, CA 95129, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3151717,
+                "lng": -121.9910309
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3164616299,
+                    "lng": -121.9897836201
+                },
+                "southwest": {
+                    "lat": 37.3137619701,
+                    "lng": -121.9924832799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "ee2a77270232e570d3f039f86e8a8a825026cf64",
+        "name": "Queen of Apostles School",
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113343258388222402826\/photos\">Michael H<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAqaNF1aDwaNvzJdCQ8ABPk9iAhyDSTgEUG14M0ftUeJG0ZLXORkhA3TvlnC6TwgPBnZ4B666A1Ar_XLeH_k7Hj_zre8gRlwqj_4JZIdS76MBSF093Mvy6-kyNeuVyDj2uEhBospQ2G5DpKkqMxebfjyF-GhQrUujTAqlf2MyeL0v3kh2UARS-_g",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ_yx5sZ3Kj4ARHaMUubztH10",
+        "plus_code": {
+            "compound_code": "8285+3H San Jose, California, United States",
+            "global_code": "849W8285+3H"
+        },
+        "rating": 4.7,
+        "reference": "ChIJ_yx5sZ3Kj4ARHaMUubztH10",
+        "types": [
+            "school",
+            "primary_school",
+            "secondary_school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "1755 Gilda Way, San Jose, CA 95124, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2382523,
+                "lng": -121.9137842
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2393401799,
+                    "lng": -121.9124310701
+                },
+                "southwest": {
+                    "lat": 37.2366405201,
+                    "lng": -121.9151307299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "ef84809738b1a443fe337c320babf3206338fe8b",
+        "name": "Noddin Elementary School",
+        "photos": null,
+        "place_id": "ChIJYUaALx00joARv0pv4hRntxk",
+        "plus_code": {
+            "compound_code": "63QP+8F San Jose, California, United States",
+            "global_code": "849W63QP+8F"
+        },
+        "rating": 4.7,
+        "reference": "ChIJYUaALx00joARv0pv4hRntxk",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "1290 Bal Harbor Way, San Jose, CA 95122, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3398704,
+                "lng": -121.8366897
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3408185799,
+                    "lng": -121.8356990701
+                },
+                "southwest": {
+                    "lat": 37.3381189201,
+                    "lng": -121.8383987299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "cf38ad0a085e44bed1741384e4c12e114aa274e1",
+        "name": "Anthony Dorsa Elementary School",
+        "photos": null,
+        "place_id": "ChIJYxrLMDTNj4ARqhx__AEy47I",
+        "plus_code": {
+            "compound_code": "85Q7+W8 San Jose, California, United States",
+            "global_code": "849W85Q7+W8"
+        },
+        "rating": 4.3,
+        "reference": "ChIJYxrLMDTNj4ARqhx__AEy47I",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 9,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "1280 Koch Ln, San Jose, CA 95125, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2805668,
+                "lng": -121.8878512
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2820236799,
+                    "lng": -121.8865629701
+                },
+                "southwest": {
+                    "lat": 37.2793240201,
+                    "lng": -121.8892626299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "43c0f7419da4771401749829beebe0fce23d8b57",
+        "name": "Schallenberger",
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/107676326664620085801\/photos\">Sam Venugopal<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA-Rmib9T7FHwYHhI7RpqR1DQ92JVPpAR8aZHlmVArO7WqVdp6lbdH_Xx2-6qFrEoPQjnx84TFBHejSnBMY7LR5ntYB0vkxell_aYZEbD_D7C4ZvufsalzrfyozjWM7uB4EhAwpOO52jFO2wGrkUTlu1MOGhTvhBE6nL1wfgrakqTmhxOO2dvBFQ",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJi8CPVJwzjoARMlIuSW3htgg",
+        "plus_code": {
+            "compound_code": "74J6+6V San Jose, California, United States",
+            "global_code": "849W74J6+6V"
+        },
+        "rating": 5.0,
+        "reference": "ChIJi8CPVJwzjoARMlIuSW3htgg",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 7,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "1100 Summerdale Dr, San Jose, CA 95132, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3900727,
+                "lng": -121.8511462
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3912857799,
+                    "lng": -121.8502749701
+                },
+                "southwest": {
+                    "lat": 37.3885861201,
+                    "lng": -121.8529746299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "083b08d1317843e85ad4b64befd4ecddbcfe9323",
+        "name": "Summerdale Elementary School",
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117073831629998155815\/photos\">juan gaspar<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAO_Hq9S5uQ3hz4j5WRJ9qtfNDP-EB34wy9CzDaqvz44i10K7hGW12UhWWCFU8rJfNbr9Ifcify0SXqkYr4DU4HXH1ma8V9Q8caAs1SuksaXZfr7kPFv1BDj62TLnsPlGXEhBqfRjjE9tzMUBzO5aaIXXTGhTtpjLYzTYAFzjYVnjiEw8qsnW0nA",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJ2VbScsrNj4ARPt4hfvP3My4",
+        "plus_code": {
+            "compound_code": "94RX+2G San Jose, California, United States",
+            "global_code": "849W94RX+2G"
+        },
+        "rating": 4.0,
+        "reference": "ChIJ2VbScsrNj4ARPt4hfvP3My4",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 8,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "5140 Country Ln, San Jose, CA 95129, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2982927,
+                "lng": -121.9918369
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2997230799,
+                    "lng": -121.9904351201
+                },
+                "southwest": {
+                    "lat": 37.2970234201,
+                    "lng": -121.9931347799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "e921198e89f1857f2f8b193b8b210a16b5343038",
+        "name": "Country Lane Elementary School",
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/104803966525537268782\/photos\">Jose Luis Flores<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA21NovYGcBG62H3uwqJVQBNzXIfkCJ5WJhJ5YnseyHrg5TQt1Y7digbLUHwyit2_NfcuopyLqLEowXggrYXgDzlGlFcyWPG6oEFdQU6If1gO2jeqe66g-WFA7CXVM5lbEEhDBbP3XRBu0uajrPngc_oftGhR8ZoX8GQSm5P_FBhH_DShwhCbUtg",
+                "width": 1908
+            }
+        ],
+        "place_id": "ChIJ45kFD6jKj4AROs3YzO4gYzI",
+        "plus_code": {
+            "compound_code": "72X5+87 San Jose, California, United States",
+            "global_code": "849W72X5+87"
+        },
+        "rating": 4.1,
+        "reference": "ChIJ45kFD6jKj4AROs3YzO4gYzI",
+        "types": [
+            "school",
+            "primary_school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 14,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "1602 Lucretia Ave, San Jose, CA 95122, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3255229,
+                "lng": -121.85129
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3265994799,
+                    "lng": -121.8502049201
+                },
+                "southwest": {
+                    "lat": 37.3238998201,
+                    "lng": -121.8529045799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "28fa447b7860618b705dda95492ea24e92f47a92",
+        "name": "R F Kennedy Elementary School",
+        "photos": null,
+        "place_id": "ChIJMyaZ6dYyjoARbNV3ugZrrEY",
+        "plus_code": {
+            "compound_code": "84GX+6F San Jose, California, United States",
+            "global_code": "849W84GX+6F"
+        },
+        "rating": 2.4,
+        "reference": "ChIJMyaZ6dYyjoARbNV3ugZrrEY",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "3720 E Hills Dr, San Jose, CA 95127, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3681894,
+                "lng": -121.8151162
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3697292299,
+                    "lng": -121.8139721701
+                },
+                "southwest": {
+                    "lat": 37.3670295701,
+                    "lng": -121.8166718299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "aeb368418d58b82afec6885b8d97da18c6b4c7ec",
+        "name": "Horace Cureton Elementary School",
+        "photos": null,
+        "place_id": "ChIJAR9knmPNj4ARa9MvJs9Ne28",
+        "plus_code": {
+            "compound_code": "959M+7X San Jose, California, United States",
+            "global_code": "849W959M+7X"
+        },
+        "rating": 3.9,
+        "reference": "ChIJAR9knmPNj4ARa9MvJs9Ne28",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 13,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "5000 Lyng Dr, San Jose, CA 95111, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2715899,
+                "lng": -121.8056355
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2729382799,
+                    "lng": -121.8048046201
+                },
+                "southwest": {
+                    "lat": 37.2702386201,
+                    "lng": -121.8075042799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "5d736bc068a48a804d9e5ca1dcf80cd8e0a95b7a",
+        "name": "Samuel E. Stipe Elementary School",
+        "photos": [
+            {
+                "height": 3264,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114456492784935337950\/photos\">Noe Garcia<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAlMkZbwJjUKFVgFvxxwSn6mgVd7UpOl-UC0LNaIvZTwSy2fzA80Cd8YD2YLeSlI4L2zy2Q7QTzdrmK34GdOzQ2I2MNxppNNhG4M3475Czdkz2dpwJnEc6DxI5Bn_zondZEhCO1UXFKMeuBwaKk9mIRNSPGhSFaBTb7CIQr-ARZwSg_1jaKxdWYA",
+                "width": 1836
+            }
+        ],
+        "place_id": "ChIJT88_m_4tjoARsCtJI1mSG8g",
+        "plus_code": {
+            "compound_code": "75CV+JP San Jose, California, United States",
+            "global_code": "849W75CV+JP"
+        },
+        "rating": 3.9,
+        "reference": "ChIJT88_m_4tjoARsCtJI1mSG8g",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 16,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "3466 Grossmont Dr, San Jose, CA 95132, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3949454,
+                "lng": -121.8394585
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3964266299,
+                    "lng": -121.8376564701
+                },
+                "southwest": {
+                    "lat": 37.3937269701,
+                    "lng": -121.8403561299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "7d36058e995bffff5652cbe082d96a7ea51ab1fa",
+        "name": "Noble Elementary School",
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113905663818584450678\/photos\">Anthony Lee<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA1wNXH2NVlrNWa6ZSnqcwoWNiPLfahWzWc8KVtbJx7Oif6p6SuJ_KtrZEN4qjGLp4W1CVwB6VMzcTdKw5w-eK_LF1bqwSxhKS3_ymu8C0nD0rxi8TBjINTQhDHHSf9ZONEhCiMKUzlgwhbyH4WPm9itYdGhQgdMWIe5Xp0lOzFw66YjqdyuiqDQ",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ_ZKeNMHNj4ARP5Aek3MlsgE",
+        "plus_code": {
+            "compound_code": "95V6+X6 San Jose, California, United States",
+            "global_code": "849W95V6+X6"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ_ZKeNMHNj4ARP5Aek3MlsgE",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "55 N 7th St, San Jose, CA 95112, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3395971,
+                "lng": -121.885251
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3406682299,
+                    "lng": -121.8837071701
+                },
+                "southwest": {
+                    "lat": 37.3379685701,
+                    "lng": -121.8864068299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "cc9d5a6ed5df911cf135c1cc309fa310d03c08d2",
+        "name": "Horace Mann Elementary School",
+        "photos": [
+            {
+                "height": 469,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117056001111972530890\/photos\">Ramon Sanchez<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAtKoXtMBNvjm6OCKVBwBIpSd5331W5T8OSYAKPWpBLFnuKEIzDZDurZnyo3RMDQiQD330LV_7vqfxyQE2NtMkPB7FzpaVrLiBYQAbDwFweR2I3VVeRx3bg2hjAez1TXT2EhCz3sbhgLYhUQE1_ZYBajWvGhR5PSh-cNN6yKicAIH8h3A6gMuMJA",
+                "width": 943
+            }
+        ],
+        "place_id": "ChIJU-ph573Mj4AR5Te-VAnL0hQ",
+        "plus_code": {
+            "compound_code": "84Q7+RV San Jose, California, United States",
+            "global_code": "849W84Q7+RV"
+        },
+        "rating": 4.5,
+        "reference": "ChIJU-ph573Mj4AR5Te-VAnL0hQ",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 11,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "2655 Alvin Ave, San Jose, CA 95121, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3157036,
+                "lng": -121.8252122
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3169875799,
+                    "lng": -121.8234683701
+                },
+                "southwest": {
+                    "lat": 37.3142879201,
+                    "lng": -121.8261680299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "075ce0ebc387d071e6a144d3620ac8259deb1c33",
+        "name": "Whaley Elementary School",
+        "photos": null,
+        "place_id": "ChIJyZiQyJAyjoARwdYc8wveZMY",
+        "plus_code": {
+            "compound_code": "858F+7W San Jose, California, United States",
+            "global_code": "849W858F+7W"
+        },
+        "rating": 4.3,
+        "reference": "ChIJyZiQyJAyjoARwdYc8wveZMY",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 13,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "3850 Woodford Dr, San Jose, CA 95124, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.260664,
+                "lng": -121.9096401
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2617728299,
+                    "lng": -121.9089336701
+                },
+                "southwest": {
+                    "lat": 37.2590731701,
+                    "lng": -121.9116333299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "cdd08bdf4196315e03a1b11ff020d5a7eade25a3",
+        "name": "Sartorette Elementary School",
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111387954018170317727\/photos\">Chad Ward<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA4D6MiCMfl_9P2NhB71MhLacb528zzWMyUy_qgPej7MIsmcWxQpGIFHo3iChbVY1CZelX5j2JlNQ7eZEsx6Vpg5z4plYklkSlCXGbpjsV4FCdJke-X91pHf2PaV7KipiaEhBWffsECKxyhP-CaZ0G8GOFGhTp1cqwv-BFBHcs7MhpAaw39vvh4Q",
+                "width": 960
+            }
+        ],
+        "place_id": "ChIJAya8J3I0joARbKn3WIKKC3E",
+        "plus_code": {
+            "compound_code": "736R+74 San Jose, California, United States",
+            "global_code": "849W736R+74"
+        },
+        "rating": 4.4,
+        "reference": "ChIJAya8J3I0joARbKn3WIKKC3E",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 16,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "5800 Calpine Dr, San Jose, CA 95123, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2474473,
+                "lng": -121.8116818
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2486676799,
+                    "lng": -121.8106570701
+                },
+                "southwest": {
+                    "lat": 37.2459680201,
+                    "lng": -121.8133567299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "5fab9e4a007d9b83eaac2ff933f38b5e84867af2",
+        "name": "Alex Anderson Elementary School",
+        "photos": [
+            {
+                "height": 2034,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113673446036619382880\/photos\">Bay View Vallejo<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAKt_WHAZBGfgnsQT-wA64D_U4JiHQZXw-Vjxq6aUD5ORWe_x8h-gJCOcOE2kt-EFOn4TfRyHs5fFpgjF-zjNaOA1OwkkW3PEXfwsbr3fByCwUFG1YIemd7Dni9c39UTLdEhChSsedb6g1b6WYtoVXEjwSGhT5QQRSVXVnCuXWG_FVPo75JgB23Q",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJTWLH4N8xjoARhkrNnSXk2Uo",
+        "plus_code": {
+            "compound_code": "65WQ+X8 San Jose, California, United States",
+            "global_code": "849W65WQ+X8"
+        },
+        "rating": 2.9,
+        "reference": "ChIJTWLH4N8xjoARhkrNnSXk2Uo",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 13,
+        "opening_hours": {
+            "open_now": true
+        }
+    },
+    {
+        "formatted_address": "3311 Lucian Ave, San Jose, CA 95127, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3818314,
+                "lng": -121.8331309
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3826639299,
+                    "lng": -121.8313857701
+                },
+                "southwest": {
+                    "lat": 37.3799642701,
+                    "lng": -121.8340854299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "1e8e030f745a5ce3dc0856b0b8637a8e6d194f4c",
+        "name": "Millard McCollam Elementary School",
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109014855927593274601\/photos\">Azra Bibi<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAyCenQrycLrsnmXyjyzxdEDsw3Rsq7iIF60_ZOUM6yrDi6LD8OMxqEQW6kfQEzWmxfaNed9t4GzSAY0afA8MOqZQR4JLvfK3HFdFPNVeryMlk-abwDvVet_R4-eGdlLhCEhAX1-7035pZNw8amPolNfFlGhTKs34SZXo4IyYY0wRZf86Bx8C4bw",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJF2hCyZjNj4ARIODPC1a4O9I",
+        "plus_code": {
+            "compound_code": "95J8+PP San Jose, California, United States",
+            "global_code": "849W95J8+PP"
+        },
+        "rating": 4.0,
+        "reference": "ChIJF2hCyZjNj4ARIODPC1a4O9I",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 12,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "1524 Jacob Ave, San Jose, CA 95118, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.263628,
+                "lng": -121.8943262
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2648928799,
+                    "lng": -121.8933018701
+                },
+                "southwest": {
+                    "lat": 37.2621932201,
+                    "lng": -121.8960015299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "6959e1cbb1cc86f19cb5ad0e285b66599e8cd3bc",
+        "name": "Reed Elementary School",
+        "photos": [
+            {
+                "height": 1224,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103606200429068890090\/photos\">Frank Sargent<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAbIoy5CJPUCOYd3jX0fWP1d8rX4x3JqwYJh4rCBBZDmrXsNiIVOLxxrX6CJvN9E87xtbuZvvL1i_7q5UkkwHvDGKdthS2fxxvGaPa0eiCkj4gCh32SwS0Pm6r7PdOHZPeEhCiQhxyZAJgPt6ZXV1VYJTTGhSoUmpOUdaR6YchbYVnjmgKx3SCQQ",
+                "width": 1632
+            }
+        ],
+        "place_id": "ChIJ74gX94wzjoARSl8yKuI0CzU",
+        "plus_code": {
+            "compound_code": "7474+F7 San Jose, California, United States",
+            "global_code": "849W7474+F7"
+        },
+        "rating": 5.0,
+        "reference": "ChIJ74gX94wzjoARSl8yKuI0CzU",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 6,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "6280 Shadelands Dr, San Jose, CA 95123, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.230533,
+                "lng": -121.83913
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2319280299,
+                    "lng": -121.8379358201
+                },
+                "southwest": {
+                    "lat": 37.2292283701,
+                    "lng": -121.8406354799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "62b41effb56334186d06f787c482153a8500acc8",
+        "name": "Sakamoto Elementary School",
+        "photos": [
+            {
+                "height": 1255,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110307554990658913262\/photos\">greninja fan<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAmvX5Fj6Ym2xnIeJwaUrw-QhVATft6WGR2hqVwGEhqU7FiXRHSdsxdeaE2TZq5wYTxCdbgMv0C8OmQFGYeKBQAOzMxdDY5f7FRp1a_HSPd1mHCBrsRdQHNE4oI1NEa7guEhBdVrmFynhhZPRbzEa6ybltGhRQtMEOfO_tx5XDA0SRZ_dVZj5M1w",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJ92i7irkxjoARJTtq8xyh4M4",
+        "plus_code": {
+            "compound_code": "65J6+68 San Jose, California, United States",
+            "global_code": "849W65J6+68"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ92i7irkxjoARJTtq8xyh4M4",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 8,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "1425 Lincoln Ave, San Jose, CA 95125, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3024917,
+                "lng": -121.8971717
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3040910799,
+                    "lng": -121.8961858201
+                },
+                "southwest": {
+                    "lat": 37.3013914201,
+                    "lng": -121.8988854799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "cb6a7c2fcb83b8252ac0d7abed36a0f7bad5c658",
+        "name": "Willow Glen Elementary School",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100557233042623135184\/photos\">Elmer Garduno<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAatS6VdRLQN5NdZChk8hAkYPQuFGzvfjDrb3EbOeXQFzKeLJls0mIvtZasWA_kB2bhka4JTwK-MPQNAeTn-SGZI0IUE87IuKIwsdgIwVqVFpD3J3sbLfsnBQ00xMfqBtcEhCpAqMWZuPuhcxzOmjDCM5GGhQdOwKTQ50qc_4KGc1rW_ZsEPJ6kw",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJFWTiSlkzjoAR1lledmhVvpk",
+        "plus_code": {
+            "compound_code": "8423+X4 San Jose, California, United States",
+            "global_code": "849W8423+X4"
+        },
+        "rating": 4.0,
+        "reference": "ChIJFWTiSlkzjoAR1lledmhVvpk",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 10,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "1311 Vinci Park Way, San Jose, CA 95131, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3801455,
+                "lng": -121.8728985
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3815528299,
+                    "lng": -121.8720914201
+                },
+                "southwest": {
+                    "lat": 37.3788531701,
+                    "lng": -121.8747910799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "36dbdd19ae97fbe74647ca68820fea91a4d804e1",
+        "name": "Vinci Park Elementary School",
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110136594054541777887\/photos\">First Fruits<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAKqMFkD_WcGJJCUs2lNr01AfLKcD2OTbpXREzNMlCg1Cc6jRjKtk7r9lzq1QGPHlCvwxHV12a7knsf3VEWn__vfvbwwx3OXzmrjFt7F0HHqEf9T16KMix5gS9kozFOa4TEhDjmy0mwOs4kwRkYqZG910bGhRQsZeKsFJrqA86Up8hbq2ubFHa-A",
+                "width": 1280
+            }
+        ],
+        "place_id": "ChIJpduA1kDMj4ARv0VSb5dbiXM",
+        "plus_code": {
+            "compound_code": "94JG+3R San Jose, California, United States",
+            "global_code": "849W94JG+3R"
+        },
+        "rating": 3.4,
+        "reference": "ChIJpduA1kDMj4ARv0VSb5dbiXM",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 15,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "5035 Poston Dr, San Jose, CA 95136, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2621229,
+                "lng": -121.8272163
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2634224799,
+                    "lng": -121.8256943201
+                },
+                "southwest": {
+                    "lat": 37.2607228201,
+                    "lng": -121.8283939799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "0b4c63091b4e5904c91ca37894941a268791eafa",
+        "name": "Hayes Elementary School",
+        "photos": [
+            {
+                "height": 640,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110506794224659364291\/photos\">Shannon Macdonald<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA0kXhLxcMe3svgtb_1h_amokLzWXLP9oyFO7BZlZ9LPpqWWpwdZ3ql5-RyaX8JbM3ZhflV5mlJg-4KtL7tRi3b4IPeT1N-9XDAdVwCXXUOkWa6p0HjkfBHWbl7K3l2WpKEhDAhbVmUVKGI0FPnSV1e771GhRw3OMNvRYj-oTAjwvfjZfxaqqh-g",
+                "width": 478
+            }
+        ],
+        "place_id": "ChIJ7-QtGfYxjoARhGOe-BqdoXM",
+        "plus_code": {
+            "compound_code": "756F+R4 San Jose, California, United States",
+            "global_code": "849W756F+R4"
+        },
+        "rating": 3.5,
+        "reference": "ChIJ7-QtGfYxjoARhGOe-BqdoXM",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 11,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "1300 Tallahassee Dr, San Jose, CA 95122, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.345013,
+                "lng": -121.829381
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3460612799,
+                    "lng": -121.8285235701
+                },
+                "southwest": {
+                    "lat": 37.3433616201,
+                    "lng": -121.8312232299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "f1489370f337ae43d2e2d4f80ba271f8d8f47411",
+        "name": "Sylvia Cassell Elementary School",
+        "photos": null,
+        "place_id": "ChIJUSTZGEnNj4ARTtfWeHcNEm0",
+        "plus_code": {
+            "compound_code": "85WC+26 San Jose, California, United States",
+            "global_code": "849W85WC+26"
+        },
+        "rating": 4.5,
+        "reference": "ChIJUSTZGEnNj4ARTtfWeHcNEm0",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 8,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "995 Bard St, San Jose, CA 95127, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3905872,
+                "lng": -121.838124
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3920120799,
+                    "lng": -121.8365980201
+                },
+                "southwest": {
+                    "lat": 37.3893124201,
+                    "lng": -121.8392976799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "aef49c343d46cd907476f5557c0681416f6e5a03",
+        "name": "Toyon Elementary School",
+        "photos": [
+            {
+                "height": 1564,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/100967903134007088841\/photos\">Maria Smith<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAXTouOKt8EBS_v2NN3hzE8PVqVR-P4e4NssWtpgbRtjmcPeM21fe4XkzfoNTlEL_KP05i2bKrf6TAVpmK6GrTp4hEV5Of--F8UT71LfwNiEhn5UnEfBVjK4QSpUzOXL3SEhB_xjFyTEvlIwE4M_rPddDgGhR1IZVJAGGrRr7YJW1XG7YNuadG2g",
+                "width": 1564
+            }
+        ],
+        "place_id": "ChIJN76E1L7Nj4AR9pX1eV_R1jY",
+        "plus_code": {
+            "compound_code": "95R6+6Q San Jose, California, United States",
+            "global_code": "849W95R6+6Q"
+        },
+        "rating": 3.7,
+        "reference": "ChIJN76E1L7Nj4AR9pX1eV_R1jY",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 10,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "470 Jackson St, San Jose, CA 95112, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.350647,
+                "lng": -121.887753
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3524862299,
+                    "lng": -121.8869038701
+                },
+                "southwest": {
+                    "lat": 37.3497865701,
+                    "lng": -121.8896035299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "d887708edb6b2f7c8f843a0f5133a36fef153849",
+        "name": "Grant Elementary School",
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105046510870789285839\/photos\">Laura Iriondo<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAVSAuzaq8IREtDM7JQSTBv6D40KE61PpRwl8RPm8MTXuf12IvcVFbYtUCrQjzz1RNWkN_bEHQ2I0lCnpUTekxvWv-sHyrn8-IiUSXgbctTWtqwYckEvn1vtHumcza_QT0EhC4Tg05N-fiqjxx3VXCRQKxGhSYzSwfjL-5TVfPP-xoxcveAbuoPQ",
+                "width": 2268
+            }
+        ],
+        "place_id": "ChIJJ8dfyo_Mj4ARlA9pr7GYvTM",
+        "plus_code": {
+            "compound_code": "9426+7V San Jose, California, United States",
+            "global_code": "849W9426+7V"
+        },
+        "rating": 3.7,
+        "reference": "ChIJJ8dfyo_Mj4ARlA9pr7GYvTM",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 17,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "1401 Turlock Ln, San Jose, CA 95132, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.4001294,
+                "lng": -121.856584
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.4015864799,
+                    "lng": -121.8549039201
+                },
+                "southwest": {
+                    "lat": 37.3988868201,
+                    "lng": -121.8576035799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "3a9bd612a4ca4a02a110e2a99ccf3feb3b635e92",
+        "name": "Ruskin Elementary School",
+        "photos": [
+            {
+                "height": 2160,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103196979326015741826\/photos\">Michael Moses<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAhuksCZ4GjkosEQ43pNOCJDfq7i2k4pXJv4rG5Q1FhWbZ8uQvENcNZA9elh6WdJA7aDZXZlTRpz9lxWt77OT0gn149j4huEVyZibfI0eetKTb2ViiF95Rbc9ZghwMn42MEhAyQ4Q3UzeF8q4l-D5e2AecGhTxBrKHJ3nYPdvPDokrxCvo7y3BYA",
+                "width": 3840
+            }
+        ],
+        "place_id": "ChIJ05CZ2yzMj4ARvv0KFjlchq0",
+        "plus_code": {
+            "compound_code": "C42V+39 San Jose, California, United States",
+            "global_code": "849WC42V+39"
+        },
+        "rating": 3.5,
+        "reference": "ChIJ05CZ2yzMj4ARvv0KFjlchq0",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 8,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "3241 Remington Way, San Jose, CA 95148, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3280716,
+                "lng": -121.7895406
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3296397299,
+                    "lng": -121.7879647201
+                },
+                "southwest": {
+                    "lat": 37.3269400701,
+                    "lng": -121.7906643799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "03b35659307067963c404d68fd0c897e973cf603",
+        "name": "Norwood Creek Elementary School",
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109554990212639180668\/photos\">Jad L.<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA28t9TPswugilJDznEaKRCbotcpwhKbwFuPazy8IBBaHW6yl9VJ0GytRXJduPdBZPyGs0AEf12uFKlgX5XrhP-b6Bk1OPDp1ABNFKDB3tRJXn_9Wdd5h0Tm9R3YoKZfXFEhCn0HMPMqXQATAa6eWEuOPLGhQD07GvlfSm9rtWyIvomXpvdLtXvA",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJPXLwM2stjoARRrRA10yYk6Q",
+        "plus_code": {
+            "compound_code": "86H6+65 San Jose, California, United States",
+            "global_code": "849W86H6+65"
+        },
+        "rating": 4.1,
+        "reference": "ChIJPXLwM2stjoARRrRA10yYk6Q",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 18,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "3925 Pearl Ave, San Jose, CA 95136, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2704934,
+                "lng": -121.8694274
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2721400799,
+                    "lng": -121.8679553701
+                },
+                "southwest": {
+                    "lat": 37.2694404201,
+                    "lng": -121.8706550299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "984882fc33ff7bba628736af360371c04eae6c7d",
+        "name": "Terrell Elementary School",
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/110649486096097178339\/photos\">A Google User<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA6-G6VHBZ5d5pvBr5hYM4xUJhUwRrmybO2vT3zLGBtTdtyuhFZdwDjUbZoeTtkxIrcATET0hiLqXMnJA-Cqv_ydxVmuvyc2H-VEW_PRom1NTy_ODVTW4VzoSFIF9xjY3qEhD0bQCbnGv63N--C69Dx8w5GhRPh7YeSdZbcRof2hvzF7Xt7lOLhg",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJO8b1MbgzjoARKh1vsBZHNdY",
+        "plus_code": {
+            "compound_code": "74CJ+56 San Jose, California, United States",
+            "global_code": "849W74CJ+56"
+        },
+        "rating": 3.0,
+        "reference": "ChIJO8b1MbgzjoARKh1vsBZHNdY",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "280 Martinvale Ln, San Jose, CA 95119, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2238651,
+                "lng": -121.7831284
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2251597799,
+                    "lng": -121.7822919201
+                },
+                "southwest": {
+                    "lat": 37.2224601201,
+                    "lng": -121.7849915799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "1e2c5278f422fb1a3d8fab43da532e3bd1809308",
+        "name": "Baldwin Elementary School",
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/118351331738532035563\/photos\">jaime fuerte<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA0SL7-cg9riLg9yKW-8WfDjn3GyMvFAk5LNVhMJKAh0OeiwpQLHjOK8KzC2tCO5ooMpvyec-cvrGQYM_o5Za5kuHb-MBNj5slK1QMAo8GKEaxD3BWQ0DSHIylPMcGlGJUEhDfanrhXtmQ8wAl02jD6NaTGhQq3Fx6oTj1n3yGJYGefIH49m1X_w",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJZTNXprkvjoARefNTvubH1qA",
+        "plus_code": {
+            "compound_code": "66F8+GP San Jose, California, United States",
+            "global_code": "849W66F8+GP"
+        },
+        "rating": 4.0,
+        "reference": "ChIJZTNXprkvjoARefNTvubH1qA",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 12,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "2400 Flint Ave, San Jose, CA 95148, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3397824,
+                "lng": -121.7914317
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3410330299,
+                    "lng": -121.7905550701
+                },
+                "southwest": {
+                    "lat": 37.3383333701,
+                    "lng": -121.7932547299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "24eb7cc85ff7d7a88c843ded7aeee30abe7a8230",
+        "name": "Valle Vista Elementary School",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109425833457372260850\/photos\">Steve Sun<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAZMh8yus-Q_MbD9tP0Du4H9b6WFhl2A8Laun65fEH128-2ZAy7RbYtfMSKpSfZtjYoeAq90Q3_3ww9J_9BxCRJIVCKd_ZWP7ZWpE6mHSInvXYPpVtWe-3ArYM_GYlsd7eEhB6Qj8j8Y4q1OroT6TBtL6xGhSli0FyxqS0-lNouAcwLpP68z06Fg",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJk8oKGEYtjoAR6JCTOHxM_ug",
+        "plus_code": {
+            "compound_code": "86Q5+WC San Jose, California, United States",
+            "global_code": "849W86Q5+WC"
+        },
+        "rating": 5.0,
+        "reference": "ChIJk8oKGEYtjoAR6JCTOHxM_ug",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 8,
+        "opening_hours": {
+            "open_now": true
+        }
+    },
+    {
+        "formatted_address": "285 Azucar Ave, San Jose, CA 95111, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2623437,
+                "lng": -121.8033216
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2633018299,
+                    "lng": -121.8019721701
+                },
+                "southwest": {
+                    "lat": 37.2606021701,
+                    "lng": -121.8046718299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "e9a0366b82ec90b06db3453a95c55bf02bf52ab4",
+        "name": "Edenvale Elementary School",
+        "photos": [
+            {
+                "height": 2592,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114503919380903200117\/photos\">Son Ngo Lam<\/a>"
+                ],
+                "photo_reference": "CmRZAAAAeJfXkuFBxqRq_1OAJHkKesfOj1nj0VBG4QsPloCyGEgxCmydo7jcA7I3O42eWyx8WNWxZM7siGkSlbZf5uIKe9Z7qUavfeeQ1ngxkvlguGua-Kh0DwbVxuRGW3jJxhMBEhDIByWqlF7Bda0J6F66Bj0tGhQAevtzWaeUMkn9siaNdsG3bHSSxQ",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJGyhm9wQujoARO1ZEK7Zpf7w",
+        "plus_code": {
+            "compound_code": "756W+WM San Jose, California, United States",
+            "global_code": "849W756W+WM"
+        },
+        "rating": 3.6,
+        "reference": "ChIJGyhm9wQujoARO1ZEK7Zpf7w",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 9,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "565 Coyote Rd, San Jose, CA 95111, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2796325,
+                "lng": -121.8185998
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2808651799,
+                    "lng": -121.8172576701
+                },
+                "southwest": {
+                    "lat": 37.2781655201,
+                    "lng": -121.8199573299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "664c25c6f976d0620225bc573eb226273a3a2224",
+        "name": "Christopher Elementary School",
+        "photos": [
+            {
+                "height": 1456,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/117311458720839573605\/photos\">Som Ghosh<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAougaeFo1pKNThXE-QzsAQq1FoVsI95LQvmieBluYr9VaUFjxQEy8TKy5mZK_5kEI8YnAzhPeANlBKx41057g2DfOegeIj6QgQN6Wv4EPgevD9BBvlxcH2jExkKVDKrx1EhAmRDbJr1Aub8NIrYvtPRCKGhQhJt0vA78JMf3DOUpx86GxX-r4yw",
+                "width": 2592
+            }
+        ],
+        "place_id": "ChIJW7snHQwyjoARZrFezLhhBsQ",
+        "plus_code": {
+            "compound_code": "75HJ+VH San Jose, California, United States",
+            "global_code": "849W75HJ+VH"
+        },
+        "rating": 3.7,
+        "reference": "ChIJW7snHQwyjoARZrFezLhhBsQ",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 7,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "1610 Bird Ave, San Jose, CA 95125, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.302558,
+                "lng": -121.8851669
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3039335799,
+                    "lng": -121.8836602201
+                },
+                "southwest": {
+                    "lat": 37.3012339201,
+                    "lng": -121.8863598799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/civic_building-71.png",
+        "id": "931705e1ae2aa2dd259d9c61b30099f2eeeb9ae8",
+        "name": "Hammer Montessori at Galarza Elementary School",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/105228523248501417948\/photos\">Susan H<\/a>"
+                ],
+                "photo_reference": "CmRaAAAACwi95etyFZza-O5824lyu3xjuM8XnksKzX0H5FaQvK4g9Dp77JWrUVfRRZz4htM1cT1dsN9fz1OwhA9xhiCW_gdfAcA8RSDh0IZEyxeraXzPBQOR6jf3orDE5LiAasZFEhAWZIjmj1MogNLj-Wcl5TN_GhRkqik9TNdE4tZWuxTb1ZxXnfsvgg",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJtf7ZU0IzjoARDhiF3z-2Vhk",
+        "plus_code": {
+            "compound_code": "8437+2W San Jose, California, United States",
+            "global_code": "849W8437+2W"
+        },
+        "rating": 4.7,
+        "reference": "ChIJtf7ZU0IzjoARDhiF3z-2Vhk",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 14,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "3799 Cadwallader Ave, San Jose, CA 95121, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.306325,
+                "lng": -121.7886401
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3077511799,
+                    "lng": -121.7867886701
+                },
+                "southwest": {
+                    "lat": 37.3050515201,
+                    "lng": -121.7894883299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "f3c9cd0d336750eb9eb25ab45478f1db5fd2c134",
+        "name": "Cadwallader Elementary School",
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/103890194781195861390\/photos\">Irazu Martinez<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA_encbPVUY8ElPI0ErqzAbr80qbzKf79vB_Dp5isqvB6E8245A2Z5tK1gs9axE0UPPH9fDs2SoGCOwxqrScwUVwM3cBXa2Q4GYD_Dp0KVrEIpYqbdgPSgiFgcle1olSwkEhCnBY1dCDGGLU2NByqN_beTGhTJKM1o7xi2URNQcmXttu7PJm7r9w",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJaXaisZgtjoARGfeLdTThHPs",
+        "plus_code": {
+            "compound_code": "8646+GG San Jose, California, United States",
+            "global_code": "849W8646+GG"
+        },
+        "rating": 4.3,
+        "reference": "ChIJaXaisZgtjoARGfeLdTThHPs",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 16,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "921 Fox Ln, San Jose, CA 95131, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3883584,
+                "lng": -121.9014103
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.39056775,
+                    "lng": -121.8997026701
+                },
+                "southwest": {
+                    "lat": 37.38705875,
+                    "lng": -121.9024023299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "1258775b3ec220df30bfafc68ab9d1edc95b1854",
+        "name": "Orchard School District",
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/114727503035580109977\/photos\">Xing Chen<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAEXbZGyQtR_4J_oSD1iTGKxZyLzKXUVjhBoHAgssWwh9jNjUuvTVSSnqKtJxxk9_Bf_HoHX8wJ3PPBNvaoOKLdUORFBlrR98QRWcoKM885L_9vR8oYZyhC6ZJFq6DRAKsEhBCsWox2DgLmnjMCMZlTsFFGhQlcITVQG5ElehcQUIzmlO_s5mgSg",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJdb56Vv_Lj4AR6oDvqNS4BqY",
+        "plus_code": {
+            "compound_code": "93QX+8C San Jose, California, United States",
+            "global_code": "849W93QX+8C"
+        },
+        "rating": 4.5,
+        "reference": "ChIJdb56Vv_Lj4AR6oDvqNS4BqY",
+        "types": [
+            "school",
+            "primary_school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 20,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "3010 Fowler Rd, San Jose, CA 95135, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3101362,
+                "lng": -121.7793006
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3115980299,
+                    "lng": -121.7779745701
+                },
+                "southwest": {
+                    "lat": 37.3088983701,
+                    "lng": -121.7806742299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "783a31971f51fe184734312b83c4bddf19c6315b",
+        "name": "Evergreen Elementary School",
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/106757021092508371734\/photos\">Lawrence Marwong<\/a>"
+                ],
+                "photo_reference": "CmRaAAAAZ7hlHe9eR6iem6gHZOGPg4TLSXKqb8QNWr22PR_XZy9ry5fUZ2dVxjGgRIl_lnX_n5Rz8lsKXCwv-uhe7z8hzRhQW5lczehZmOkWDmy1ZXqNuT_TVeZyUj4BdDxXTsr2EhC7ppFgpAKZPc_xvNJJZPWCGhQm0BbFUdUq572rShSD47ZCJ7QGLQ",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJkVNHc6YtjoAR5eFX0ivh9TA",
+        "plus_code": {
+            "compound_code": "866C+37 San Jose, California, United States",
+            "global_code": "849W866C+37"
+        },
+        "rating": 3.6,
+        "reference": "ChIJkVNHc6YtjoAR5eFX0ivh9TA",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 12,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "5000 Farnsworth Dr, San Jose, CA 95138, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2800565,
+                "lng": -121.7602944
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2814076799,
+                    "lng": -121.7589463201
+                },
+                "southwest": {
+                    "lat": 37.2787080201,
+                    "lng": -121.7616459799
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "c846bfd2026a8c3fa999f53e17b41e620b5b1a92",
+        "name": "Silver Oak Elementary School",
+        "photos": [
+            {
+                "height": 1960,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/109945691291656530555\/photos\">Todd Langton<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA7oiK9tkzVSrVYrYvEoYFxCTmbxxHDIr-v0ivTIU4d-wiYLquWiszGTMEj8GKPswGfZYZjcMebUkFOYcTEh3Drws7vziMWD3pY7noGCpiHrb6rtjb-cae7mcLsI0aVgunEhBWJgi4GxxyogIiyjd_0YN5GhSLz-rGd6bojDeGlzQTPa-pI5TwJg",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJmwNj6iosjoARgBlJ2Zvu070",
+        "plus_code": {
+            "compound_code": "76JQ+2V San Jose, California, United States",
+            "global_code": "849W76JQ+2V"
+        },
+        "rating": 3.4,
+        "reference": "ChIJmwNj6iosjoARgBlJ2Zvu070",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 12,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "1450 N Leigh Ave, San Jose, CA 95125, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.2968209,
+                "lng": -121.9219455
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.2981605799,
+                    "lng": -121.9209378701
+                },
+                "southwest": {
+                    "lat": 37.2954609201,
+                    "lng": -121.9236375299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "a7b8dec6d8e9ee6edcae47806eb819ae226fd67f",
+        "name": "Valley Christian Elementary",
+        "photos": null,
+        "place_id": "ChIJX6na0Lg0joARKV42YewKSXA",
+        "plus_code": {
+            "compound_code": "73WH+P6 San Jose, California, United States",
+            "global_code": "849W73WH+P6"
+        },
+        "rating": 4.8,
+        "reference": "ChIJX6na0Lg0joARKV42YewKSXA",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5,
+        "opening_hours": null
+    },
+    {
+        "formatted_address": "1056 W Julian St, San Jose, CA 95126, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3327533,
+                "lng": -121.9115174
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3341473299,
+                    "lng": -121.9102157701
+                },
+                "southwest": {
+                    "lat": 37.3314476701,
+                    "lng": -121.9129154299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "36aaabc354773a1c5e881b83e9d6610a3d6627da",
+        "name": "Back to Basics Montessori Christian Preschool and Kindergarten",
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/113060765060575191854\/photos\">A Google User<\/a>"
+                ],
+                "photo_reference": "CmRaAAAALoNomqo5o7oYPvvGCba7bok2FdkHN6KEDsMljhB9ecWr16cTYKXM8C1I2_t0f6-nHzysSEql_xMVwwgebs1Rldzs4oXYH3iSMrECHf-6Lg5r1W-kcLCmXwyANHeQVvWOEhBXsq2v6ek-4iZyUg2EJMLTGhTP63LIRCwNZ1fhmAdHlUaSupipFg",
+                "width": 6000
+            }
+        ],
+        "place_id": "ChIJTzkzYl3Lj4ARzIiCpVZXTms",
+        "plus_code": {
+            "compound_code": "83MQ+49 San Jose, California, United States",
+            "global_code": "849W83MQ+49"
+        },
+        "rating": 5.0,
+        "reference": "ChIJTzkzYl3Lj4ARzIiCpVZXTms",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "opening_hours": {
+            "open_now": true
+        }
+    },
+    {
+        "formatted_address": "100 Oak St, San Jose, CA 95110, United States",
+        "geometry": {
+            "location": {
+                "lat": 37.3211268,
+                "lng": -121.8812984
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 37.3224879799,
+                    "lng": -121.8797663701
+                },
+                "southwest": {
+                    "lat": 37.3197883201,
+                    "lng": -121.8824660299
+                }
+            }
+        },
+        "icon": "https:\/\/maps.gstatic.com\/mapfiles\/place_api\/icons\/school-71.png",
+        "id": "d4faff75889582563534d44342e555722eac7351",
+        "name": "Washington Elementary School",
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https:\/\/maps.google.com\/maps\/contrib\/111079280429557757554\/photos\">Ana Luna<\/a>"
+                ],
+                "photo_reference": "CmRaAAAA26xpN-b_YPWSe4pjX5Od_WVrhtIDMMzLDOEgSAkRuC5PmnDvCw7vBvtTs4ar6bJ7QjE7RFgZiXo_sZYlZ6n4fCN0PtfUpj7qx7689bUGF6-TMHKjmECZlJkvy9q1G8BgEhCs9Qx008PFkRtcLuJTweV7GhSVFt6Pc6UT2Z3Nw56lMFuzLdGWSw",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJ86BXJ0szjoAR1ANIcsfO-7U",
+        "plus_code": {
+            "compound_code": "84C9+FF San Jose, California, United States",
+            "global_code": "849W84C9+FF"
+        },
+        "rating": 3.5,
+        "reference": "ChIJ86BXJ0szjoAR1ANIcsfO-7U",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 10,
+        "opening_hours": null
+    }
+]
