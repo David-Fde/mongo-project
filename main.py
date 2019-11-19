@@ -4,9 +4,12 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 import requests,json,folium
-import src.maps_api as ma
+import src.functions as fnc
+import pandas as pd
 
-df = apikey.search_places_by_coordinate("40.819057,-73.914048", "100", "restaurant")
+places = pd.DataFrame(fnc.search_places_by_input())
+places.to_json("./output/dataset.json", orient="records")
+
 
 def main():
     if __name__=='__main__':
