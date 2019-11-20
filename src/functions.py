@@ -33,6 +33,10 @@ def connectCollection(database, collection):
     coll = db[collection]
     return db, coll
     
+def mongodb_call():
+    db, coll = connectCollection("companies",input("Collection name: "))
+    places_coordinates = list(coll.find({"geometry.location.lat":{"$ne":None},"geometry.location.lng":{"$ne":None}}))
+    return places_coordinates,coll
 
 def getLocation(places_coordinates):
     location=[]
@@ -46,12 +50,8 @@ def getLocation(places_coordinates):
         location.append(loc)
     return location
 
-def create_geoindex(location):
+def create_geoindex(location,coll):
     for place in location:
         value = {"$set": {'location':getLocation(place)}}
         coll.update_one(place,value)
 
-
-db, coll = connectCollection("companies",input("Collection name: "))
-
-places_coordinates = list(coll.find({"geometry.location.lat":{"$ne":None},"geometry.location.lng":{"$ne":None}}))
