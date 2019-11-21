@@ -6,13 +6,11 @@ def connectCollection(database, collection):
     coll = db[collection]
     return db, coll
 
-def getLocation(lst):
-    location=[]       
+def getLocation(lst):       
     longitude = lst['geometry']['location']['lng']
     latitude = lst['geometry']['location']['lat']
     loc = {
         'type':'Point',
         'coordinates':[longitude,latitude]
     }
-    location.append(loc)
-    return location
+    return loc
