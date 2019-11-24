@@ -23,6 +23,7 @@ radius_points = {
     }
 
 def get_points(coll,geoindex,radius):
+    # Create a geoindex.
     near_places = coll.find(
         {"location":
          {"$near":
@@ -51,6 +52,7 @@ def multiply_points(name):
     return mult
 
 def create_ranking(name):
+    # Create a pandas Data Frame with the results of each startup and based in the ranking made above (points)
     db1, coll1 = geoin.connectCollection("companies","startups_sanjose_ca")
     db2, coll2 = geoin.connectCollection("companies",name)
     potential_places = list(coll1.find({"geometry.location.lat":{"$ne":None},"geometry.location.lng":{"$ne":None}}))

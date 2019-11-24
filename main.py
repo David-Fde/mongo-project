@@ -26,6 +26,7 @@ def main():
         print("Completed")
 
     elif int(response) == 3:
+        # List of places taking into account to make the ranking.
         collections = ["airport_sanjose_ca","elementary_school_sanjose_ca",
                       "kindergarten_sanjose_ca","night_clubs_sanjose_ca", "starbucks_sanjose",
                       "train_stations_sanjose_ca","vegan_restaurants_sanjose_ca"]
@@ -45,7 +46,7 @@ def main():
         total_ranking["final_ranking"] = total_ranking["total_airport_sanjose_ca"] + total_ranking["total_elementary_school_sanjose_ca"] + total_ranking["total_kindergarten_sanjose_ca"] + total_ranking["total_night_clubs_sanjose_ca"] + total_ranking["total_starbucks_sanjose"] + total_ranking["total_train_stations_sanjose_ca"] + total_ranking["total_vegan_restaurants_sanjose_ca"]
         total_ranking = total_ranking.drop(["total_airport_sanjose_ca","total_elementary_school_sanjose_ca","total_kindergarten_sanjose_ca","total_night_clubs_sanjose_ca","total_starbucks_sanjose","total_train_stations_sanjose_ca","total_vegan_restaurants_sanjose_ca"],axis=1)
         total_ranking = total_ranking.sort_values(by=["final_ranking"],ascending=False)
-        total_ranking.to_csv("./output/final_ranking.csv",index=False)
+        total_ranking.to_csv("./output/final_ranking.csv",index=False) # Final ranking saved to a csv
     
     elif str(response) == "E":
         exit
