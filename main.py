@@ -3,6 +3,7 @@ import pandas as pd
 import src.download_from_api as fnc
 import src.create_geoindex as geoin
 import src.geoqueries as geoq
+import os
 
 def main():
     response = input("Download data from api.............. press 1" "\n" 
@@ -10,7 +11,7 @@ def main():
                     "Create ranking by company........... press 3" "\n"                
                     "Exit............................. press E" "\n"
                      )
-
+    
     if int(response) == 1:
         #Download data of a place from places.api and save them to a .json file.
 
